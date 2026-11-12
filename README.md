@@ -1,8 +1,11 @@
 # HPProcessServerPapers (HPPSP)
 ## Himachal Pradesh High Court Process Server Examination Preparation Website
 
-[![Deploy to GitHub Pages](https://github.com/think/HPProcessServerPapers/actions/workflows/deploy.yml/badge.svg)](https://github.com/think/HPProcessServerPapers/actions/workflows/deploy.yml)
-[![Validation Test](https://github.com/think/HPProcessServerPapers/actions/workflows/test.yml/badge.svg)](https://github.com/think/HPProcessServerPapers/actions/workflows/test.yml)
+> **Live Website:** [https://xpert4cyber.github.io/hp-high-court-process-server-papers/](https://xpert4cyber.github.io/hp-high-court-process-server-papers/)
+
+[![Deploy to GitHub Pages](https://github.com/xpert4cyber/hp-high-court-process-server-papers/actions/workflows/deploy.yml/badge.svg)](https://github.com/xpert4cyber/hp-high-court-process-server-papers/actions/workflows/deploy.yml)
+[![Validation Test](https://github.com/xpert4cyber/hp-high-court-process-server-papers/actions/workflows/test.yml/badge.svg)](https://github.com/xpert4cyber/hp-high-court-process-server-papers/actions/workflows/test.yml)
+[![Live Site](https://img.shields.io/badge/Live%20Site-xpert4cyber.github.io-success.svg)](https://xpert4cyber.github.io/hp-high-court-process-server-papers/)
 [![Static Site](https://img.shields.io/badge/Stack-100%25%20Static-emerald.svg)](#technology-stack)
 [![Zero Backend](https://img.shields.io/badge/Backend-None%20(Pure%20Client--Side)-blue.svg)](#technology-stack)
 
@@ -178,12 +181,9 @@ Based on *The Himachal Pradesh District Judiciary Staff Rules, 2022*:
 
 ### Step 1: Push Repository to GitHub
 ```bash
-git init
-git add .
-git commit -m "Initial commit: Complete HPProcessServerPapers website"
-git branch -M main
-git remote add origin https://github.com/USERNAME/HPProcessServerPapers.git
-git push -u origin main
+git remote add origin https://github.com/xpert4cyber/hp-high-court-process-server-papers.git
+git branch -M master
+git push -u origin master
 ```
 
 ### Step 2: Configure GitHub Pages Settings
