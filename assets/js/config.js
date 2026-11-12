@@ -16,7 +16,10 @@
       return '/' + repoMatch[1] + '/';
     }
     
-    // Check if the path starts with /HPProcessServerPapers/
+    // Check if the path starts with /hp-high-court-process-server-papers/ or /HPProcessServerPapers/
+    if (pathname.toLowerCase().startsWith('/hp-high-court-process-server-papers/')) {
+      return '/hp-high-court-process-server-papers/';
+    }
     if (pathname.toLowerCase().startsWith('/hpprocessserverpapers/')) {
       return '/HPProcessServerPapers/';
     }
@@ -31,8 +34,8 @@
     siteName: 'HPProcessServerPapers',
     brandShort: 'HPPSP',
     basePath: BASE_PATH,
-    productionDomain: 'https://think.github.io/HPProcessServerPapers',
-    canonicalBase: 'https://think.github.io/HPProcessServerPapers/',
+    productionDomain: 'https://xpert4cyber.github.io/hp-high-court-process-server-papers',
+    canonicalBase: 'https://xpert4cyber.github.io/hp-high-court-process-server-papers/',
     defaultLanguage: 'en',
     
     // Resolver for assets and routes

@@ -121,23 +121,45 @@
   };
 
   // -------------------------------------------------------------
-  // Back to Top Button
+  // Back to Top / Go to Top Controls
   // -------------------------------------------------------------
   function initBackToTop() {
-    const btn = document.getElementById('back-to-top');
-    if (!btn) return;
-
-    window.addEventListener('scroll', function() {
-      if (window.scrollY > 400) {
-        btn.style.display = 'flex';
-      } else {
-        btn.style.display = 'none';
-      }
-    });
-
-    btn.addEventListener('click', function() {
+    function scrollToTop(e) {
+      if (e) e.preventDefault();
       window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
+    // Attach to existing footer go to top buttons
+    document.querySelectorAll('.footer-go-top-btn, #footer-go-to-top, [data-action="go-to-top"]').forEach(function(el) {
+      el.addEventListener('click', scrollToTop);
     });
+
+    // Ensure floating back-to-top button exists
+    let floatingBtn = document.getElementById('back-to-top');
+    if (!floatingBtn) {
+      floatingBtn = document.createElement('button');
+      floatingBtn.id = 'back-to-top';
+      floatingBtn.setAttribute('aria-label', 'Back to top');
+      floatingBtn.setAttribute('title', 'Go to top');
+      floatingBtn.innerHTML = '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="18 15 12 9 6 15"></polyline></svg>';
+      document.body.appendChild(floatingBtn);
+    }
+
+    floatingBtn.addEventListener('click', scrollToTop);
+
+    let scrollTimeout;
+    window.addEventListener('scroll', function() {
+      if (!scrollTimeout) {
+        scrollTimeout = setTimeout(function() {
+          scrollTimeout = null;
+          if (window.scrollY > 350) {
+            floatingBtn.classList.add('visible');
+          } else {
+            floatingBtn.classList.remove('visible');
+          }
+        }, 50);
+      }
+    }, { passive: true });
   }
 
   // -------------------------------------------------------------

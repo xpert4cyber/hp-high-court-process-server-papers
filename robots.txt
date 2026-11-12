@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Sitemaps
-Sitemap: https://think.github.io/HPProcessServerPapers/sitemap.xml
+Sitemap: https://xpert4cyber.github.io/hp-high-court-process-server-papers/sitemap.xml

@@ -1135,3 +1135,76 @@ button, input, select, textarea {
 .breadcrumb-separator {
   color: var(--text-muted);
 }
+
+/* ==========================================================================
+   Go to Top / Back to Top Controls
+   ========================================================================== */
+.footer-go-top-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(255, 255, 255, 0.08);
+  color: #f8fafc;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  border-radius: var(--radius-full);
+  padding: 8px 16px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all var(--transition-fast);
+  text-decoration: none;
+  font-family: inherit;
+}
+
+.footer-go-top-btn:hover,
+.footer-go-top-btn:focus-visible {
+  background: var(--color-royal);
+  color: #ffffff;
+  border-color: var(--color-royal-light);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(29, 78, 216, 0.35);
+  outline: none;
+}
+
+.footer-go-top-btn svg {
+  transition: transform var(--transition-fast);
+}
+
+.footer-go-top-btn:hover svg {
+  transform: translateY(-2px);
+}
+
+#back-to-top {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  width: 46px;
+  height: 46px;
+  background: var(--color-royal);
+  color: #ffffff;
+  border-radius: 50%;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 16px rgba(15, 23, 42, 0.35);
+  border: 1.5px solid rgba(255, 255, 255, 0.25);
+  cursor: pointer;
+  z-index: 990;
+  transition: all var(--transition-fast);
+  opacity: 0;
+  transform: translateY(16px);
+}
+
+#back-to-top.visible {
+  display: flex;
+  opacity: 1;
+  transform: translateY(0);
+}
+
+#back-to-top:hover,
+#back-to-top:focus-visible {
+  background: var(--color-royal-light);
+  transform: translateY(-3px) scale(1.05);
+  box-shadow: 0 6px 20px rgba(29, 78, 216, 0.45);
+  outline: none;
+}

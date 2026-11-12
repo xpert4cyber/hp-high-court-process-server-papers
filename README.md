@@ -28,7 +28,7 @@ This website is engineered strictly in compliance with GitHub Pages static hosti
 - **Core Technologies:** HTML5, CSS3, Vanilla JavaScript (ES6+), JSON, SVG.
 - **Client-Side Persistence:** Browser `LocalStorage` for test history, accuracy metrics, bookmarked questions, and written essay drafts.
 - **Progressive Web App (PWA):** `manifest.webmanifest` and `service-worker.js` with cache versioning and offline capability.
-- **Base-Path Normalization:** Dynamic base-path resolution in `assets/js/config.js` supporting both nested GitHub Pages URLs (`https://USERNAME.github.io/HPProcessServerPapers/`) and custom root domains (`https://yourdomain.com/`).
+- **Base-Path Normalization:** Dynamic base-path resolution in `assets/js/config.js` supporting both nested GitHub Pages URLs (`https://xpert4cyber.github.io/hp-high-court-process-server-papers/`) and custom root domains (`https://yourdomain.com/`).
 - **Automation & CI/CD:** GitHub Actions (`deploy.yml`, `test.yml`, `research-updates.yml`).
 
 ### Prohibited Technologies Audit Confirmation
@@ -191,19 +191,19 @@ git push -u origin main
 2. Under **Build and deployment** &rarr; **Source**, select **GitHub Actions**.
 3. The `.github/workflows/deploy.yml` workflow will automatically trigger, validate all static assets, and deploy your site to:
    ```text
-   https://USERNAME.github.io/HPProcessServerPapers/
+   https://xpert4cyber.github.io/hp-high-court-process-server-papers/
    ```
 
 ### Step 3: (Optional) Custom Domain Configuration
 1. In repository **Settings** &rarr; **Pages**, enter your custom domain (e.g., `hpprocessserverpapers.org`).
-2. Add a `CNAME` record in your DNS provider pointing to `USERNAME.github.io`.
+2. Add a `CNAME` record in your DNS provider pointing to `xpert4cyber.github.io`.
 3. Check the box for **Enforce HTTPS**.
 4. Update `productionDomain` in `assets/js/config.js` to match your domain.
 
 ### Step 4: Google Search Console Submission
 1. Add your property in [Google Search Console](https://search.google.com/search-console).
 2. Submit your sitemap URL:
-   `https://USERNAME.github.io/HPProcessServerPapers/sitemap.xml` (or custom domain sitemap).
+   `https://xpert4cyber.github.io/hp-high-court-process-server-papers/sitemap.xml` (or custom domain sitemap).
 
 ---
 
