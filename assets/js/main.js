@@ -5,14 +5,21 @@
 (function(window, document) {
   'use strict';
 
-  document.addEventListener('DOMContentLoaded', function() {
+  function initAll() {
     initThemeToggle();
     initMobileNav();
     initSearchShortcut();
     initBackToTop();
     initServiceWorker();
     updateFooterYear();
-  });
+  }
+
+  // Ensure scripts run whether DOMContentLoaded has already fired or not
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initAll);
+  } else {
+    initAll();
+  }
 
   // -------------------------------------------------------------
   // Theme Toggler
@@ -123,43 +130,100 @@
   // -------------------------------------------------------------
   // Back to Top / Go to Top Controls
   // -------------------------------------------------------------
-  function initBackToTop() {
-    function scrollToTop(e) {
-      if (e) e.preventDefault();
-      window.scrollTo({ top: 0, behavior: 'smooth' });
+  function getScrollTop() {
+    return window.pageYOffset || 
+           (document.documentElement && document.documentElement.scrollTop) || 
+           (document.body && document.body.scrollTop) || 
+           (window.scrollY !== undefined ? window.scrollY : 0);
+  }
+
+  function scrollToTop(e) {
+    if (e) {
+      if (typeof e.preventDefault === 'function') e.preventDefault();
+      if (typeof e.stopPropagation === 'function') e.stopPropagation();
     }
 
-    // Attach to existing footer go to top buttons
-    document.querySelectorAll('.footer-go-top-btn, #footer-go-to-top, [data-action="go-to-top"]').forEach(function(el) {
-      el.addEventListener('click', scrollToTop);
+    // Modern smooth scroll on window
+    try {
+      window.scrollTo({ top: 0, left: 0, behavior: 'smooth' });
+    } catch (err) {
+      window.scrollTo(0, 0);
+    }
+
+    // Also trigger on documentElement / body for broad browser compatibility
+    try {
+      if (document.documentElement && typeof document.documentElement.scrollTo === 'function') {
+        document.documentElement.scrollTo({ top: 0, left: 0, behavior: 'smooth' });
+      }
+    } catch (err) {
+      if (document.documentElement) document.documentElement.scrollTop = 0;
+    }
+
+    try {
+      if (document.body && typeof document.body.scrollTo === 'function') {
+        document.body.scrollTo({ top: 0, left: 0, behavior: 'smooth' });
+      }
+    } catch (err) {
+      if (document.body) document.body.scrollTop = 0;
+    }
+
+    // Safety fallback: if after 350ms the page hasn't moved to top, jump
+    setTimeout(function() {
+      if (getScrollTop() > 5) {
+        window.scrollTo(0, 0);
+        if (document.documentElement) document.documentElement.scrollTop = 0;
+        if (document.body) document.body.scrollTop = 0;
+      }
+    }, 400);
+
+    return false;
+  }
+
+  // Expose globally so inline onclick handlers can always invoke it
+  window.scrollToTop = scrollToTop;
+
+  function initBackToTop() {
+    // 1. Global event delegation: catches ANY click on Go to Top triggers
+    document.addEventListener('click', function(e) {
+      const trigger = e.target.closest('.footer-go-top-btn, #footer-go-to-top, #back-to-top, [data-action="go-to-top"], a[href="#top"]');
+      if (trigger) {
+        scrollToTop(e);
+      }
     });
 
-    // Ensure floating back-to-top button exists
+    // 2. Ensure floating back-to-top button exists in DOM
     let floatingBtn = document.getElementById('back-to-top');
     if (!floatingBtn) {
       floatingBtn = document.createElement('button');
       floatingBtn.id = 'back-to-top';
-      floatingBtn.setAttribute('aria-label', 'Back to top');
+      floatingBtn.type = 'button';
+      floatingBtn.setAttribute('aria-label', 'Back to top of page');
       floatingBtn.setAttribute('title', 'Go to top');
-      floatingBtn.innerHTML = '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="18 15 12 9 6 15"></polyline></svg>';
+      floatingBtn.innerHTML = '<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="18 15 12 9 6 15"></polyline></svg>';
       document.body.appendChild(floatingBtn);
     }
 
-    floatingBtn.addEventListener('click', scrollToTop);
+    // 3. Scroll listener to reveal floating button
+    function updateFloatingVisibility() {
+      if (getScrollTop() > 200) {
+        floatingBtn.classList.add('visible');
+      } else {
+        floatingBtn.classList.remove('visible');
+      }
+    }
 
-    let scrollTimeout;
+    let scrollRaf;
     window.addEventListener('scroll', function() {
-      if (!scrollTimeout) {
-        scrollTimeout = setTimeout(function() {
-          scrollTimeout = null;
-          if (window.scrollY > 350) {
-            floatingBtn.classList.add('visible');
-          } else {
-            floatingBtn.classList.remove('visible');
-          }
-        }, 50);
+      if (!scrollRaf) {
+        scrollRaf = requestAnimationFrame(function() {
+          scrollRaf = null;
+          updateFloatingVisibility();
+        });
       }
     }, { passive: true });
+
+    window.addEventListener('resize', updateFloatingVisibility, { passive: true });
+    updateFloatingVisibility();
   }
 
   // -------------------------------------------------------------

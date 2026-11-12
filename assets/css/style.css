@@ -1142,31 +1142,38 @@ button, input, select, textarea {
 .footer-go-top-btn {
   display: inline-flex;
   align-items: center;
+  justify-content: center;
   gap: 8px;
   background: rgba(255, 255, 255, 0.08);
-  color: #f8fafc;
-  border: 1px solid rgba(255, 255, 255, 0.18);
+  color: #f8fafc !important;
+  border: 1px solid rgba(255, 255, 255, 0.2);
   border-radius: var(--radius-full);
-  padding: 8px 16px;
+  padding: 8px 18px;
   font-size: 0.85rem;
   font-weight: 600;
   cursor: pointer;
-  transition: all var(--transition-fast);
-  text-decoration: none;
+  transition: background var(--transition-fast), color var(--transition-fast), border-color var(--transition-fast), transform var(--transition-fast), box-shadow var(--transition-fast);
+  text-decoration: none !important;
   font-family: inherit;
+  line-height: 1;
+  user-select: none;
+  -webkit-user-select: none;
 }
 
 .footer-go-top-btn:hover,
 .footer-go-top-btn:focus-visible {
-  background: var(--color-royal);
-  color: #ffffff;
+  background: var(--color-royal) !important;
+  color: #ffffff !important;
   border-color: var(--color-royal-light);
   transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(29, 78, 216, 0.35);
+  box-shadow: 0 4px 14px rgba(29, 78, 216, 0.4);
   outline: none;
 }
 
 .footer-go-top-btn svg {
+  display: inline-block;
+  vertical-align: middle;
+  pointer-events: none;
   transition: transform var(--transition-fast);
 }
 
@@ -1178,33 +1185,40 @@ button, input, select, textarea {
   position: fixed;
   bottom: 24px;
   right: 24px;
-  width: 46px;
-  height: 46px;
+  width: 48px;
+  height: 48px;
   background: var(--color-royal);
   color: #ffffff;
   border-radius: 50%;
-  display: none;
+  display: flex;
   align-items: center;
   justify-content: center;
-  box-shadow: 0 4px 16px rgba(15, 23, 42, 0.35);
+  box-shadow: 0 6px 18px rgba(15, 23, 42, 0.35);
   border: 1.5px solid rgba(255, 255, 255, 0.25);
   cursor: pointer;
-  z-index: 990;
-  transition: all var(--transition-fast);
+  z-index: 99999;
+  transition: opacity 0.25s ease, transform 0.25s ease, visibility 0.25s ease, background 0.15s ease;
   opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
   transform: translateY(16px);
 }
 
 #back-to-top.visible {
-  display: flex;
   opacity: 1;
+  visibility: visible;
+  pointer-events: auto;
   transform: translateY(0);
 }
 
 #back-to-top:hover,
 #back-to-top:focus-visible {
   background: var(--color-royal-light);
-  transform: translateY(-3px) scale(1.05);
-  box-shadow: 0 6px 20px rgba(29, 78, 216, 0.45);
+  transform: translateY(-3px) scale(1.06);
+  box-shadow: 0 8px 24px rgba(29, 78, 216, 0.5);
   outline: none;
+}
+
+#back-to-top svg {
+  pointer-events: none;
 }

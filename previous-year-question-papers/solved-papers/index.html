@@ -11,7 +11,7 @@
   <link rel="stylesheet" href="../../assets/css/responsive.css">
   <link rel="stylesheet" href="../../assets/css/animations.css">
 </head>
-<body>
+<body id="top">
   <a href="#main-content" class="skip-link">Skip to main content</a>
 
   <header class="site-header" role="banner">
@@ -110,7 +110,7 @@
     <div class="container">
       <div class="footer-bottom">
         <div>&copy; 2026 HPProcessServerPapers. Solved Papers Archive.</div>
-        <button class="footer-go-top-btn" aria-label="Go to top of page" title="Go to top of page"><span>Go to Top</span><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="18 15 12 9 6 15"></polyline></svg></button>
+        <a href="#top" class="footer-go-top-btn" id="footer-go-to-top" role="button" aria-label="Go to top of page" title="Go to top of page" onclick="window.scrollToTop ? window.scrollToTop(event) : (window.scrollTo({top:0,left:0,behavior:'smooth'}),document.documentElement.scrollTop=0,document.body.scrollTop=0); return false;"><span>Go to Top</span><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="18 15 12 9 6 15"></polyline></svg></a>
         <div><a href="../../disclaimer/" style="color:#94a3b8;">Disclaimer</a> • <a href="../../privacy-policy/" style="color:#94a3b8;">Privacy</a></div>
       </div>
     </div>
