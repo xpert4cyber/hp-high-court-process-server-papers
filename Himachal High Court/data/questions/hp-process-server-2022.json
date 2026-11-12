@@ -1,0 +1,902 @@
+[
+  {
+    "id": "HP2022-01",
+    "subject": "Himachal Pradesh GK",
+    "topic": "Rivers and Drainage",
+    "difficulty": "easy",
+    "language": "en",
+    "question": "The river 'Beas' rises from which of the following mountain passes in Himachal Pradesh?",
+    "options": [
+      "Baralacha Pass",
+      "Rohtang Pass (Beas Kund)",
+      "Shipki La Pass",
+      "Zoji La Pass"
+    ],
+    "correctAnswer": 1,
+    "explanation": "River Beas originates from Beas Kund near Rohtang Pass in the Pir Panjal range (Kullu district) at an altitude of approximately 3,978 metres.",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 1",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-02",
+    "subject": "Himachal Pradesh GK",
+    "topic": "Mountain Passes",
+    "difficulty": "moderate",
+    "language": "en",
+    "question": "'Chobia Pass' connects which of the following two regions in Himachal Pradesh?",
+    "options": [
+      "Chamba and Lahaul",
+      "Kullu and Lahaul",
+      "Manali and Kinnaur",
+      "Mandi and Kullu"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Chobia Pass (altitude approx. 4,934 metres) is a high-altitude pass situated in the Pir Panjal range connecting Bharmaur in Chamba district with Lahaul valley.",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 2",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-03",
+    "subject": "Himachal Pradesh GK",
+    "topic": "Valleys and Geography",
+    "difficulty": "easy",
+    "language": "en",
+    "question": "'Saproon Valley' is located in which district of Himachal Pradesh?",
+    "options": [
+      "Solan",
+      "Una",
+      "Sirmaur",
+      "Hamirpur"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Saproon Valley is a famous fertile valley situated in the Solan district of Himachal Pradesh, renowned for vegetable cultivation and mushroom farming.",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 3",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-04",
+    "subject": "Himachal Pradesh GK",
+    "topic": "Glaciers",
+    "difficulty": "moderate",
+    "language": "en",
+    "question": "The 'Dudhon' and 'Parbati' glaciers are situated in which district of Himachal Pradesh?",
+    "options": [
+      "Kangra",
+      "Chamba",
+      "Kullu",
+      "Sirmaur"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Both Dudhon and Parbati glaciers are located in the Kullu district. The Parbati glacier feeds the Parbati river, which is a major tributary of the river Beas.",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 4",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-05",
+    "subject": "General Knowledge",
+    "topic": "Government Schemes & Infrastructure",
+    "difficulty": "moderate",
+    "language": "en",
+    "question": "Which of the following sectors is primarily addressed by the 'Bharat Nirman' programme?",
+    "options": [
+      "Self-sufficiency in food grain production",
+      "Family welfare and child immunization",
+      "Rural infrastructure development",
+      "Urban employment guarantee"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Bharat Nirman was launched by the Government of India to develop basic rural infrastructure covering six components: rural housing, irrigation, drinking water, rural roads, rural electrification, and rural telephone connectivity.",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 5",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-06",
+    "subject": "Himachal Pradesh GK",
+    "topic": "Lakes and Wetlands",
+    "difficulty": "easy",
+    "language": "en",
+    "question": "Which of the following is the largest man-made (artificial) lake in Himachal Pradesh?",
+    "options": [
+      "Renuka Lake",
+      "Govind Sagar Lake",
+      "Rewalsar Lake",
+      "Prashar Lake"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Govind Sagar Lake on the Sutlej river in Bilaspur district (created by Bhakra Dam) is the largest artificial lake in Himachal Pradesh. Renuka Lake in Sirmaur is the largest natural lake.",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 6",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-07",
+    "subject": "Himachal Pradesh GK",
+    "topic": "Temples and Architecture",
+    "difficulty": "moderate",
+    "language": "en",
+    "question": "The famous 'Hidimba Devi Temple' in Manali is built in which architectural style?",
+    "options": [
+      "Shikhara style",
+      "Pagoda style",
+      "Dome style",
+      "Flat roof style"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Hidimba Devi Temple in Manali (built in 1553 AD by Raja Bahadur Singh) is built in the traditional multi-tiered wooden Pagoda architectural style.",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 7",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-08",
+    "subject": "Himachal Pradesh GK",
+    "topic": "History and State Formation",
+    "difficulty": "easy",
+    "language": "en",
+    "question": "Himachal Pradesh attained full statehood as the 18th State of the Indian Union on which date?",
+    "options": [
+      "15 April 1948",
+      "1 November 1966",
+      "25 January 1971",
+      "15 August 1947"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Himachal Pradesh became the 18th State of the Indian Union on 25 January 1971. 15 April 1948 is celebrated as Himachal Day (formation as Chief Commissioner's province).",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 8",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-09",
+    "subject": "Himachal Pradesh GK",
+    "topic": "Rivers and Tributaries",
+    "difficulty": "easy",
+    "language": "en",
+    "question": "'Swan River' flows through which district of Himachal Pradesh?",
+    "options": [
+      "Kangra",
+      "Una",
+      "Hamirpur",
+      "Bilaspur"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Swan River flows through Una district and is known as the 'Sorrow of Una' due to seasonal floods during monsoons.",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 9",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-10",
+    "subject": "Himachal Pradesh GK",
+    "topic": "Districts and Demographics",
+    "difficulty": "easy",
+    "language": "en",
+    "question": "Which district of Himachal Pradesh has the highest literacy rate as per the 2011 Census?",
+    "options": [
+      "Shimla",
+      "Solan",
+      "Hamirpur",
+      "Kangra"
+    ],
+    "correctAnswer": 2,
+    "explanation": "According to the 2011 Census, Hamirpur district recorded the highest literacy rate in Himachal Pradesh at 88.15%.",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 10",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-11",
+    "subject": "Himachal Pradesh GK",
+    "topic": "National Parks",
+    "difficulty": "easy",
+    "language": "en",
+    "question": "In which district is the 'Great Himalayan National Park' (UNESCO World Heritage Site) located?",
+    "options": [
+      "Kullu",
+      "Chamba",
+      "Kinnaur",
+      "Mandi"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Great Himalayan National Park (GHNP) is located in Kullu district and was inscribed as a UNESCO World Heritage Site in 2014.",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 11",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-12",
+    "subject": "Himachal Pradesh GK",
+    "topic": "Fairs and Festivals",
+    "difficulty": "easy",
+    "language": "en",
+    "question": "The international 'Minjar Fair' is celebrated in which district of Himachal Pradesh?",
+    "options": [
+      "Mandi",
+      "Kullu",
+      "Chamba",
+      "Sirmaur"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Minjar Fair is celebrated at the historic Chowgan of Chamba town in July-August, marking the blossoming of maize shoots (Minjar).",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 12",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-13",
+    "subject": "General Knowledge",
+    "topic": "Indian Polity & Constitution",
+    "difficulty": "easy",
+    "language": "en",
+    "question": "Who is known as the 'Father of the Indian Constitution'?",
+    "options": [
+      "Dr. Rajendra Prasad",
+      "Dr. B. R. Ambedkar",
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dr. Bhimrao Ramji Ambedkar served as the Chairman of the Drafting Committee of the Constituent Assembly and is regarded as the Chief Architect and Father of the Indian Constitution.",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 13",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-14",
+    "subject": "General Knowledge",
+    "topic": "Indian Judiciary",
+    "difficulty": "easy",
+    "language": "en",
+    "question": "Judges of the High Court in India are appointed by:",
+    "options": [
+      "Chief Justice of India",
+      "Governor of the State",
+      "President of India",
+      "Chief Minister of the State"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Under Article 217 of the Constitution of India, every Judge of a High Court is appointed by the President by warrant under his hand and seal.",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 14",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-15",
+    "subject": "General Knowledge",
+    "topic": "Indian Geography",
+    "difficulty": "easy",
+    "language": "en",
+    "question": "Which is the highest peak in India (located in Sikkim)?",
+    "options": [
+      "Nanda Devi",
+      "Kangchenjunga",
+      "Kamet",
+      "Saltoro Kangri"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kangchenjunga (8,586 metres) situated on the border of Sikkim and Nepal is the highest mountain peak in undisputed Indian territory.",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 15",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-16",
+    "subject": "General Science",
+    "topic": "Human Physiology & Nutrition",
+    "difficulty": "easy",
+    "language": "en",
+    "question": "Deficiency of Vitamin C leads to which of the following diseases?",
+    "options": [
+      "Beriberi",
+      "Night blindness",
+      "Scurvy",
+      "Rickets"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Deficiency of Vitamin C (ascorbic acid) causes Scurvy, characterized by bleeding gums and poor wound healing.",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 16",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-17",
+    "subject": "General Science",
+    "topic": "Physics & Optics",
+    "difficulty": "easy",
+    "language": "en",
+    "question": "The splitting of white light into its component colors through a glass prism is called:",
+    "options": [
+      "Reflection",
+      "Refraction",
+      "Dispersion",
+      "Diffraction"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Dispersion is the phenomenon of splitting of white light into its seven constituent colors (VIBGYOR) when passing through a prism.",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 17",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-18",
+    "subject": "General Science",
+    "topic": "Chemistry & Atmospheric Gases",
+    "difficulty": "easy",
+    "language": "en",
+    "question": "Which gas is most abundant in the Earth's atmosphere?",
+    "options": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Nitrogen makes up approximately 78% of the Earth's atmosphere by volume, followed by Oxygen at about 21%.",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 18",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-19",
+    "subject": "Mathematics",
+    "topic": "Percentages",
+    "difficulty": "easy",
+    "language": "en",
+    "question": "If 20% of a number is 50, what is 60% of that number?",
+    "options": [
+      "100",
+      "150",
+      "200",
+      "250"
+    ],
+    "correctAnswer": 1,
+    "explanation": "If 20% = 50, then 1% = 2.5, and 60% = 2.5 * 60 = 150 (or simply 50 * 3 = 150).",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 19",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-20",
+    "subject": "Mathematics",
+    "topic": "Ratio and Proportion",
+    "difficulty": "easy",
+    "language": "en",
+    "question": "The ratio of boys to girls in a class of 45 students is 3:2. How many girls are there in the class?",
+    "options": [
+      "15",
+      "18",
+      "27",
+      "20"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Total ratio parts = 3 + 2 = 5. Value of 1 part = 45 / 5 = 9. Number of girls = 2 * 9 = 18.",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 20",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-21",
+    "subject": "Mathematics",
+    "topic": "Profit and Loss",
+    "difficulty": "moderate",
+    "language": "en",
+    "question": "A shopkeeper buys an article for Rs. 400 and sells it for Rs. 500. What is his profit percentage?",
+    "options": [
+      "20%",
+      "25%",
+      "15%",
+      "30%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Profit = Selling Price - Cost Price = 500 - 400 = Rs. 100. Profit percentage = (100 / 400) * 100 = 25%.",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 21",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-22",
+    "subject": "Mathematics",
+    "topic": "Simple Interest",
+    "difficulty": "moderate",
+    "language": "en",
+    "question": "Find the simple interest on Rs. 2,000 for 3 years at 5% per annum.",
+    "options": [
+      "Rs. 250",
+      "Rs. 300",
+      "Rs. 350",
+      "Rs. 400"
+    ],
+    "correctAnswer": 1,
+    "explanation": "SI = (P * R * T) / 100 = (2000 * 5 * 3) / 100 = 300 Rs.",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 22",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-23",
+    "subject": "English",
+    "topic": "Synonyms",
+    "difficulty": "easy",
+    "language": "en",
+    "question": "Choose the synonym of the word 'ANCIENT':",
+    "options": [
+      "Modern",
+      "Old",
+      "Recent",
+      "Fresh"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Ancient' means belonging to the very distant past or very old. 'Old' is its closest synonym.",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 23",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-24",
+    "subject": "English",
+    "topic": "Antonyms",
+    "difficulty": "easy",
+    "language": "en",
+    "question": "Choose the antonym of the word 'HONEST':",
+    "options": [
+      "Truthful",
+      "Dishonest",
+      "Sincere",
+      "Noble"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The opposite of 'Honest' is 'Dishonest'.",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 24",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-25",
+    "subject": "English",
+    "topic": "Prepositions",
+    "difficulty": "easy",
+    "language": "en",
+    "question": "Fill in the blank with the appropriate preposition: 'He has been absent _____ Monday.'",
+    "options": [
+      "for",
+      "since",
+      "from",
+      "by"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Since' is used to denote a specific point of time in the past with the present perfect continuous / present perfect tense.",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 25",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-26",
+    "subject": "English",
+    "topic": "Articles",
+    "difficulty": "easy",
+    "language": "en",
+    "question": "Fill in the blank with the correct article: 'She is _____ honorable lady.'",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Honorable' starts with a silent 'h' and vowel sound ('on-'), so 'an' is the correct article.",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 26",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-27",
+    "subject": "Hindi",
+    "topic": "विलोम शब्द",
+    "difficulty": "easy",
+    "language": "hi",
+    "question": "'अमृत' का सही विलोम शब्द कौन सा है?",
+    "options": [
+      "जल",
+      "विष",
+      "सुधा",
+      "पियूष"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'अमृत' का विलोम शब्द 'विष' होता है। सुधा एवं पियूष अमृत के पर्यायवाची हैं।",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 27",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-28",
+    "subject": "Hindi",
+    "topic": "पर्यायवाची शब्द",
+    "difficulty": "easy",
+    "language": "hi",
+    "question": "'सूर्य' का पर्यायवाची शब्द निम्नलिखित में से कौन सा है?",
+    "options": [
+      "शशि",
+      "दिनकर",
+      "रजनीश",
+      "निशाकर"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'दिनकर' सूर्य का पर्यायवाची शब्द है। शशि, रजनीश और निशाकर चंद्रमा के पर्यायवाची हैं।",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 28",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-29",
+    "subject": "Hindi",
+    "topic": "मुहावरे",
+    "difficulty": "easy",
+    "language": "hi",
+    "question": "'आँखों का तारा होना' मुहावरे का सही अर्थ क्या है?",
+    "options": [
+      "बहुत प्यारा होना",
+      "कम दिखाई देना",
+      "क्रोधित होना",
+      "अंधा होना"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'आँखों का तारा होना' मुहावरे का अर्थ 'अत्यंत प्रिय या बहुत प्यारा होना' है।",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 29",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-30",
+    "subject": "Hindi",
+    "topic": "वर्तनी शुद्धि",
+    "difficulty": "easy",
+    "language": "hi",
+    "question": "शुद्ध वर्तनी वाले शब्द का चयन कीजिए:",
+    "options": [
+      "उज्वल",
+      "उज्ज्वल",
+      "उजवल",
+      "उज्वल्ल"
+    ],
+    "correctAnswer": 1,
+    "explanation": "शुद्ध रूप 'उज्ज्वल' है जिसमें दो बार आधा 'ज' (ज् + ज् + वल) प्रयुक्त होता है।",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 30",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-31",
+    "subject": "Reasoning",
+    "topic": "Number Series",
+    "difficulty": "easy",
+    "language": "en",
+    "question": "Find the missing number in the series: 2, 4, 8, 16, 32, ?",
+    "options": [
+      "48",
+      "54",
+      "64",
+      "72"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Each number is multiplied by 2 (geometric progression): 32 * 2 = 64.",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 31",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-32",
+    "subject": "Reasoning",
+    "topic": "Analogy",
+    "difficulty": "easy",
+    "language": "en",
+    "question": "'Doctor' is related to 'Hospital' in the same way as 'Teacher' is related to:",
+    "options": [
+      "Office",
+      "School",
+      "Laboratory",
+      "Court"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A doctor works in a hospital; similarly, a teacher works in a school.",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 32",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-33",
+    "subject": "Reasoning",
+    "topic": "Odd One Out",
+    "difficulty": "easy",
+    "language": "en",
+    "question": "Find the odd one out among the given options:",
+    "options": [
+      "Shimla",
+      "Dharamshala",
+      "Chandigarh",
+      "Mandi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Shimla, Dharamshala, and Mandi are cities located in Himachal Pradesh, whereas Chandigarh is a Union Territory.",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 33",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-34",
+    "subject": "Himachal Pradesh GK",
+    "topic": "Geography & Rivers",
+    "difficulty": "easy",
+    "language": "en",
+    "question": "Which river in Himachal Pradesh is associated with the ancient Vedic name 'Purushni'?",
+    "options": [
+      "Satluj",
+      "Ravi",
+      "Chenab",
+      "Yamuna"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ravi river was called 'Purushni' or 'Iravati' in Vedic literature. Satluj was 'Shutudri', Chenab was 'Asikni', and Beas was 'Vipasa'.",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 34",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-35",
+    "subject": "Himachal Pradesh GK",
+    "topic": "Districts and Borders",
+    "difficulty": "moderate",
+    "language": "en",
+    "question": "Which district of Himachal Pradesh shares international borders with Tibet (China)?",
+    "options": [
+      "Kinnaur and Lahaul-Spiti",
+      "Kullu and Chamba",
+      "Shimla and Mandi",
+      "Una and Bilaspur"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Both Kinnaur and Lahaul-Spiti share international borders with Tibet (Autonomous Region of China).",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 35",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-36",
+    "subject": "Himachal Pradesh GK",
+    "topic": "Important Personalities",
+    "difficulty": "easy",
+    "language": "en",
+    "question": "Who was the first Chief Minister of Himachal Pradesh?",
+    "options": [
+      "Shri Shanta Kumar",
+      "Dr. Yashwant Singh Parmar",
+      "Thakur Ram Lal",
+      "Virbhadra Singh"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dr. Yashwant Singh Parmar is revered as the 'Architect and Founder of Himachal Pradesh' and served as its first Chief Minister.",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 36",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-37",
+    "subject": "General Knowledge",
+    "topic": "National Parks of India",
+    "difficulty": "easy",
+    "language": "en",
+    "question": "'Jim Corbett National Park', the oldest national park in India, is situated in which state?",
+    "options": [
+      "Himachal Pradesh",
+      "Uttarakhand",
+      "Assam",
+      "Madhya Pradesh"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Jim Corbett National Park (established in 1936 as Hailey National Park) is located in the Nainital and Pauri Garhwal districts of Uttarakhand.",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 37",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-38",
+    "subject": "General Knowledge",
+    "topic": "Important Inventions",
+    "difficulty": "easy",
+    "language": "en",
+    "question": "Who invented the telephone?",
+    "options": [
+      "Thomas Alva Edison",
+      "Alexander Graham Bell",
+      "Guglielmo Marconi",
+      "James Watt"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Alexander Graham Bell was granted the official patent for the invention of the electric telephone in 1876.",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 38",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-39",
+    "subject": "General Science",
+    "topic": "Human Body",
+    "difficulty": "easy",
+    "language": "en",
+    "question": "Which organ of the human body filters urea and nitrogenous waste from the blood?",
+    "options": [
+      "Heart",
+      "Lungs",
+      "Kidneys",
+      "Liver"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The kidneys filter blood through nephrons, removing urea, excess salts, and metabolic waste in the form of urine.",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 39",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-40",
+    "subject": "General Science",
+    "topic": "Electricity & Units",
+    "difficulty": "easy",
+    "language": "en",
+    "question": "What is the SI unit of electric current?",
+    "options": [
+      "Volt",
+      "Ampere",
+      "Ohm",
+      "Watt"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Ampere (A) is the SI base unit of electric current. Volt is potential difference, Ohm is resistance, and Watt is power.",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 40",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-41",
+    "subject": "Mathematics",
+    "topic": "Averages",
+    "difficulty": "easy",
+    "language": "en",
+    "question": "What is the average of the first five natural numbers (1, 2, 3, 4, 5)?",
+    "options": [
+      "2.5",
+      "3",
+      "3.5",
+      "4"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sum = 1 + 2 + 3 + 4 + 5 = 15. Average = 15 / 5 = 3.",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 41",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-42",
+    "subject": "Mathematics",
+    "topic": "Time and Work",
+    "difficulty": "moderate",
+    "language": "en",
+    "question": "If A can complete a work in 10 days and B can complete it in 15 days, in how many days will both complete it together?",
+    "options": [
+      "5 days",
+      "6 days",
+      "7 days",
+      "8 days"
+    ],
+    "correctAnswer": 1,
+    "explanation": "1 day's combined work = 1/10 + 1/15 = (3 + 2)/30 = 5/30 = 1/6. Hence, together they take 6 days.",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 42",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-43",
+    "subject": "English",
+    "topic": "One Word Substitution",
+    "difficulty": "easy",
+    "language": "en",
+    "question": "A person who cannot read or write is called:",
+    "options": [
+      "Blind",
+      "Illiterate",
+      "Deaf",
+      "Dumb"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Illiterate' refers to someone unable to read or write. 'Literate' is someone who can read and write.",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 43",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-44",
+    "subject": "English",
+    "topic": "Spelling Correction",
+    "difficulty": "easy",
+    "language": "en",
+    "question": "Identify the word with the correct spelling:",
+    "options": [
+      "Recieve",
+      "Receive",
+      "Receve",
+      "Receeve"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The correct spelling is 'Receive' (following the rule 'i before e except after c').",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 44",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-45",
+    "subject": "Hindi",
+    "topic": "सन्धि",
+    "difficulty": "moderate",
+    "language": "hi",
+    "question": "'सूर्योदय' शब्द का सही सन्धि-विच्छेद क्या है?",
+    "options": [
+      "सूर्य + उदय",
+      "सूर्य + दय",
+      "सूर्यो + दय",
+      "सूर + उदय"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'सूर्य + उदय' = 'सूर्योदय' (यह गुण स्वर सन्धि का उदाहरण है जहाँ अ/आ + उ = ओ बनता है)।",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 45",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-46",
+    "subject": "Hindi",
+    "topic": "अनेक शब्दों के लिए एक शब्द",
+    "difficulty": "easy",
+    "language": "hi",
+    "question": "'जो सब कुछ जानता हो' के लिए एक शब्द है:",
+    "options": [
+      "अल्पज्ञ",
+      "सर्वज्ञ",
+      "विद्वान",
+      "सर्वव्यापी"
+    ],
+    "correctAnswer": 1,
+    "explanation": "'जो सब कुछ जानता हो' उसे 'सर्वज्ञ' कहा जाता है। अल्पज्ञ वह होता है जो कम जानता हो।",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 46",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-47",
+    "subject": "Reasoning",
+    "topic": "Coding Decoding",
+    "difficulty": "easy",
+    "language": "en",
+    "question": "In a certain code, 'CAT' is written as 'DBU'. How is 'DOG' written in that code?",
+    "options": [
+      "EPH",
+      "EOH",
+      "FPI",
+      "DPH"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Each letter is shifted by +1: C->D, A->B, T->U. Therefore, D->E, O->P, G->H = 'EPH'.",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 47",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-48",
+    "subject": "Reasoning",
+    "topic": "Direction Sense",
+    "difficulty": "moderate",
+    "language": "en",
+    "question": "A man walks 4 km North, then turns right and walks 3 km. How far is he from his starting point?",
+    "options": [
+      "4 km",
+      "5 km",
+      "7 km",
+      "6 km"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Using Pythagoras theorem: Distance = sqrt(4^2 + 3^2) = sqrt(16 + 9) = sqrt(25) = 5 km.",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 48",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-49",
+    "subject": "Himachal Pradesh GK",
+    "topic": "Hydroelectric Projects",
+    "difficulty": "easy",
+    "language": "en",
+    "question": "On which river is the famous 'Nathpa Jhakri Hydroelectric Project' constructed?",
+    "options": [
+      "Beas",
+      "Chenab",
+      "Sutlej",
+      "Ravi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The 1,500 MW Nathpa Jhakri Hydel Project (operated by SJVN) is constructed on the Sutlej river in Kinnaur and Shimla districts.",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 49",
+    "verification": "verified-official-2022"
+  },
+  {
+    "id": "HP2022-50",
+    "subject": "Himachal Pradesh GK",
+    "topic": "State Symbols",
+    "difficulty": "easy",
+    "language": "en",
+    "question": "Which of the following is the State Animal of Himachal Pradesh?",
+    "options": [
+      "Musk Deer",
+      "Snow Leopard",
+      "Tiger",
+      "Himalayan Tahr"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The Snow Leopard is the official State Animal of Himachal Pradesh. Western Tragopan (Jujurana) is the State Bird, and Pink Rhododendron is the State Flower.",
+    "source": "HP High Court Process Server Screening Test (18 Dec 2022) - Question 50",
+    "verification": "verified-official-2022"
+  }
+]
