@@ -76,7 +76,7 @@
     const dropdownToggles = mainNav.querySelectorAll('.dropdown-toggle');
     dropdownToggles.forEach(btn => {
       btn.addEventListener('click', function(e) {
-        if (window.innerWidth <= 768) {
+        if (window.innerWidth <= 1200) {
           e.preventDefault();
           const parent = btn.closest('.nav-dropdown');
           if (parent) parent.classList.toggle('active');

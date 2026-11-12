@@ -36,7 +36,7 @@
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1200px) {
   :root {
     --nav-height: 64px;
   }
@@ -95,6 +95,9 @@
   .nav-dropdown.active .dropdown-menu {
     display: block;
   }
+}
+
+@media (max-width: 768px) {
 
   .hero-content h1 {
     font-size: 2rem;
@@ -142,6 +145,20 @@
   }
 }
 
+@media (max-width: 640px) {
+  .brand-subtitle {
+    display: none;
+  }
+
+  .brand-title {
+    font-size: 1.1rem;
+  }
+
+  .site-brand img, .site-brand svg {
+    height: 40px;
+  }
+}
+
 @media (max-width: 480px) {
   .hero-content h1 {
     font-size: 1.7rem;
@@ -174,11 +191,25 @@
   }
 
   .brand-title {
-    font-size: 1.05rem;
+    font-size: 1.02rem;
   }
 
   .site-brand img, .site-brand svg {
-    height: 40px;
+    height: 38px;
+  }
+}
+
+@media (max-width: 400px) {
+  .brand-title {
+    font-size: 0.92rem;
+  }
+
+  .site-brand {
+    gap: 8px;
+  }
+
+  .site-brand img, .site-brand svg {
+    height: 34px;
   }
 }
 
