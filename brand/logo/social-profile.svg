@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500" aria-label="HPPSP Social Profile">
+  <defs>
+    <linearGradient id="spBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="60%" stop-color="#1e293b" />
+      <stop offset="100%" stop-color="#0b1329" />
+    </linearGradient>
+    <linearGradient id="spSun" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fde047" />
+      <stop offset="100%" stop-color="#f59e0b" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="500" height="500" fill="url(#spBg)" />
+  <circle cx="250" cy="250" r="230" fill="none" stroke="#334155" stroke-width="3" stroke-dasharray="10 8" />
+
+  <!-- Sun -->
+  <circle cx="250" cy="180" r="60" fill="url(#spSun)" />
+
+  <!-- Mountains -->
+  <path d="M 70 330 L 190 140 L 310 330 Z" fill="#1d4ed8" opacity="0.9" />
+  <path d="M 190 140 L 220 190 L 200 180 L 180 205 L 165 190 Z" fill="#ffffff" />
+
+  <path d="M 160 330 L 280 110 L 400 330 Z" fill="#38bdf8" />
+  <path d="M 280 110 L 320 170 L 300 160 L 275 185 L 255 165 L 245 175 Z" fill="#ffffff" />
+
+  <path d="M 270 330 L 360 170 L 440 330 Z" fill="#2563eb" opacity="0.8" />
+  <path d="M 360 170 L 385 210 L 365 200 L 345 220 Z" fill="#ffffff" />
+
+  <!-- Open Educational Book -->
+  <path d="M 90 340 C 180 320, 235 345, 250 355 C 265 345, 320 320, 410 340 L 400 390 C 320 375, 265 390, 250 398 C 235 390, 180 375, 100 390 Z" fill="#047857" />
+  <path d="M 100 335 C 180 315, 235 340, 247 350 L 247 386 C 235 378, 180 355, 100 376 Z" fill="#f8fafc" />
+  <path d="M 400 335 C 320 315, 265 340, 253 350 L 253 386 C 265 378, 320 355, 400 376 Z" fill="#ffffff" />
+  <line x1="250" y1="350" x2="250" y2="398" stroke="#fbbf24" stroke-width="7" stroke-linecap="round" />
+
+  <!-- Brand Typography in Profile -->
+  <text x="250" y="445" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="44" font-weight="900" fill="#ffffff" text-anchor="middle" letter-spacing="3">
+    HPPSP
+  </text>
+  <text x="250" y="475" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="16" font-weight="600" fill="#38bdf8" text-anchor="middle" letter-spacing="1">
+    HP HIGH COURT PREP
+  </text>
+</svg>

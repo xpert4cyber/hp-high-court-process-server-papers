@@ -1,0 +1,50 @@
+[
+  {
+    "id": "hp-process-server-2022",
+    "title": "HP High Court Process Server Screening Test (18 Dec 2022)",
+    "year": 2022,
+    "examDate": "2022-12-18",
+    "totalMarks": 50,
+    "totalQuestions": 50,
+    "durationMinutes": 60,
+    "category": "Official Screening Test",
+    "authenticity": "Verified Authentic / Solved with Explanations",
+    "status": "Available Online & Interactive Simulator",
+    "description": "The authentic screening test conducted on 18 December 2022 across Himachal Pradesh for the recruitment of Process Server in District Judiciary. Covers HP GK, Indian GK, Elementary Math, General Science, English, Hindi, and Mental Ability.",
+    "url": "previous-year-question-papers/hp-process-server-2022/",
+    "hasInteractiveMock": true,
+    "subjects": ["HP GK", "General Knowledge", "Mathematics", "General Science", "English", "Hindi", "Reasoning"]
+  },
+  {
+    "id": "hp-process-server-model-01",
+    "title": "HP High Court Process Server Full-Length Model Paper 1",
+    "year": 2024,
+    "examDate": "Curated Practice Set",
+    "totalMarks": 50,
+    "totalQuestions": 50,
+    "durationMinutes": 60,
+    "category": "Curated Model Paper",
+    "authenticity": "Based on 2022 District Judiciary Rules Syllabus",
+    "status": "Available Online & Interactive Simulator",
+    "description": "Carefully constructed 50-question mock examination strictly following the official 10+2 standard syllabus prescribed under the Himachal Pradesh District Judiciary Staff Rules 2022.",
+    "url": "mock-tests/full-length-screening-test/",
+    "hasInteractiveMock": true,
+    "subjects": ["HP GK", "General Knowledge", "Mathematics", "General Science", "English", "Hindi", "Reasoning"]
+  },
+  {
+    "id": "hp-process-server-model-02",
+    "title": "HP Process Server HP GK & Current Affairs Special Paper",
+    "year": 2024,
+    "examDate": "Specialized Subject Practice",
+    "totalMarks": 50,
+    "totalQuestions": 50,
+    "durationMinutes": 45,
+    "category": "Subject-Wise Paper",
+    "authenticity": "Curated by HP GK Specialists",
+    "status": "Available Online",
+    "description": "Intensive practice set focused on Himachal Pradesh history, geography, rivers, passes, folk culture, temples, districts, and recent administrative developments.",
+    "url": "question-bank/himachal-pradesh-gk/",
+    "hasInteractiveMock": true,
+    "subjects": ["Himachal Pradesh GK"]
+  }
+]

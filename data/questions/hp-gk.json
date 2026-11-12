@@ -1,0 +1,2162 @@
+﻿[
+    {
+        "id":  "HPGK-001",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "Geography \u0026 Rivers",
+        "difficulty":  "easy",
+        "language":  "en",
+        "question":  "Which is the longest river flowing through Himachal Pradesh?",
+        "options":  [
+                        "Beas",
+                        "Ravi",
+                        "Sutlej",
+                        "Chenab"
+                    ],
+        "correctAnswer":  2,
+        "explanation":  "Sutlej (Shatadru) is the longest river in Himachal Pradesh, flowing approximately 320 km within the state. It enters Himachal at Shipki La in Kinnaur district from Tibet.",
+        "source":  "HP District Gazetteer \u0026 HPPSC Reference",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-002",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "Geography \u0026 Rivers",
+        "difficulty":  "easy",
+        "language":  "en",
+        "question":  "Which river in Himachal Pradesh has the largest volume of water?",
+        "options":  [
+                        "Chenab",
+                        "Sutlej",
+                        "Beas",
+                        "Yamuna"
+                    ],
+        "correctAnswer":  0,
+        "explanation":  "Chenab (Chandrabhaga) has the largest volume of water among all rivers in Himachal Pradesh. It is formed by the confluence of Chandra and Bhaga rivers at Tandi in Lahaul.",
+        "source":  "HP State Geography Compendium",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-003",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "Geography \u0026 Rivers",
+        "difficulty":  "moderate",
+        "language":  "en",
+        "question":  "Chandra and Bhaga rivers meet at which place to form the river Chenab?",
+        "options":  [
+                        "Kaza",
+                        "Tandi",
+                        "Keylong",
+                        "Udaipur"
+                    ],
+        "correctAnswer":  1,
+        "explanation":  "Tandi in Lahaul-Spiti district is the sacred confluence where the Chandra and Bhaga rivers meet to form Chandrabhaga (Chenab).",
+        "source":  "Lahaul-Spiti District Gazetteer",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-004",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "Geography \u0026 Rivers",
+        "difficulty":  "easy",
+        "language":  "en",
+        "question":  "The river Yamuna enters Himachal Pradesh at which location in Sirmaur district?",
+        "options":  [
+                        "Khodar Majri",
+                        "Tajewala",
+                        "Paonta Sahib",
+                        "Renuka"
+                    ],
+        "correctAnswer":  0,
+        "explanation":  "Yamuna enters Himachal Pradesh at Khodar Majri in Sirmaur district and leaves the state at Tajewala to enter Haryana.",
+        "source":  "Sirmaur District Gazetteer",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-005",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "Geography \u0026 Rivers",
+        "difficulty":  "easy",
+        "language":  "en",
+        "question":  "Tons and Giri are the major tributaries of which river in Himachal Pradesh?",
+        "options":  [
+                        "Yamuna",
+                        "Sutlej",
+                        "Ravi",
+                        "Beas"
+                    ],
+        "correctAnswer":  0,
+        "explanation":  "Tons, Giri, Bata, and Pabbar are primary tributaries of the river Yamuna in Himachal Pradesh.",
+        "source":  "HP Drainage System Guide",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-006",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "Lakes \u0026 Wetlands",
+        "difficulty":  "easy",
+        "language":  "en",
+        "question":  "Which is the largest natural lake in Himachal Pradesh?",
+        "options":  [
+                        "Rewalsar Lake",
+                        "Renuka Lake",
+                        "Khajjiar Lake",
+                        "Chamera Lake"
+                    ],
+        "correctAnswer":  1,
+        "explanation":  "Renuka Lake in Sirmaur district with a circumference of approximately 2.5 km is the largest natural lake in Himachal Pradesh and a designated Ramsar wetland.",
+        "source":  "Himachal Tourism \u0026 Ramsar Directory",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-007",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "Lakes \u0026 Wetlands",
+        "difficulty":  "easy",
+        "language":  "en",
+        "question":  "Which lake in Mandi district is famous for its floating circular island?",
+        "options":  [
+                        "Prashar Lake",
+                        "Rewalsar Lake",
+                        "Kumarwah Lake",
+                        "Pandoh Lake"
+                    ],
+        "correctAnswer":  0,
+        "explanation":  "Prashar Lake (altitude 2,730 m) in Mandi features a unique floating island that moves continuously across the circular lake basin.",
+        "source":  "Mandi District Administration",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-008",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "Lakes \u0026 Wetlands",
+        "difficulty":  "moderate",
+        "language":  "en",
+        "question":  "Rewalsar lake in Mandi is sacred to which three religions?",
+        "options":  [
+                        "Hinduism, Buddhism, and Sikhism",
+                        "Hinduism, Jainism, and Islam",
+                        "Buddhism, Jainism, and Sikhism",
+                        "Hinduism, Buddhism, and Christianity"
+                    ],
+        "correctAnswer":  0,
+        "explanation":  "Rewalsar (Tso Pema) is revered by Hindus (associated with Rishi Lomas), Buddhists (associated with Guru Padmasambhava), and Sikhs (visited by Guru Gobind Singh Ji).",
+        "source":  "HP Cultural Heritage Records",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-009",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "Lakes \u0026 Wetlands",
+        "difficulty":  "easy",
+        "language":  "en",
+        "question":  "Suraj Tal and Chandra Tal lakes are located in which district?",
+        "options":  [
+                        "Kinnaur",
+                        "Chamba",
+                        "Lahaul-Spiti",
+                        "Kullu"
+                    ],
+        "correctAnswer":  2,
+        "explanation":  "Suraj Tal (source of Bhaga river) and Chandra Tal (source of Chandra river) are situated in the high-altitude Lahaul-Spiti district.",
+        "source":  "Lahaul-Spiti Geography Guide",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-010",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "Lakes \u0026 Wetlands",
+        "difficulty":  "easy",
+        "language":  "en",
+        "question":  "Khajjiar Lake, often referred to as the \u0027Mini Switzerland of India\u0027, is located in which district?",
+        "options":  [
+                        "Kangra",
+                        "Chamba",
+                        "Shimla",
+                        "Solan"
+                    ],
+        "correctAnswer":  1,
+        "explanation":  "Khajjiar in Chamba district was officially christened \u0027Mini Switzerland\u0027 by Swiss Envoy Willy P. Blazer on 7 July 1992.",
+        "source":  "HP Tourism Department",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-011",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "Mountain Passes",
+        "difficulty":  "easy",
+        "language":  "en",
+        "question":  "Rohtang Pass connects the Kullu Valley with which valley?",
+        "options":  [
+                        "Kangra Valley",
+                        "Lahaul and Spiti Valley",
+                        "Chamba Valley",
+                        "Kinnaur Valley"
+                    ],
+        "correctAnswer":  1,
+        "explanation":  "Rohtang Pass (altitude 3,978 m) connects the Kullu valley with the higher valleys of Lahaul and Spiti.",
+        "source":  "Border Roads Organisation Archives",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-012",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "Mountain Passes",
+        "difficulty":  "moderate",
+        "language":  "en",
+        "question":  "Which mountain pass connects Himachal Pradesh\u0027s Kinnaur district directly with Tibet?",
+        "options":  [
+                        "Baralacha La",
+                        "Shipki La",
+                        "Kunzum Pass",
+                        "Jalori Pass"
+                    ],
+        "correctAnswer":  1,
+        "explanation":  "Shipki La is a mountain pass and border post on the India-China border in Kinnaur district through which the Sutlej river enters India.",
+        "source":  "Survey of India Records",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-013",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "Mountain Passes",
+        "difficulty":  "moderate",
+        "language":  "en",
+        "question":  "Baralacha Pass connects Lahaul in Himachal Pradesh with which northern region?",
+        "options":  [
+                        "Ladakh (Leh)",
+                        "Srinagar",
+                        "Baltistan",
+                        "Tibet"
+                    ],
+        "correctAnswer":  0,
+        "explanation":  "Baralacha La (altitude 4,890 m) on the Manali-Leh Highway connects Lahaul district with Ladakh.",
+        "source":  "National Highways Authority of India",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-014",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "Mountain Passes",
+        "difficulty":  "moderate",
+        "language":  "en",
+        "question":  "Kunzum Pass (altitude 4,551 m) provides a passage between which two regions?",
+        "options":  [
+                        "Lahaul and Spiti",
+                        "Kullu and Kangra",
+                        "Chamba and Kangra",
+                        "Kinnaur and Shimla"
+                    ],
+        "correctAnswer":  0,
+        "explanation":  "Kunzum Pass connects the Lahaul valley with the Spiti valley in Lahaul-Spiti district.",
+        "source":  "HP Tourism \u0026 Travel Guide",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-015",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "Mountain Passes",
+        "difficulty":  "difficult",
+        "language":  "en",
+        "question":  "Which pass connects Chamba with Kangra across the Dhauladhar range?",
+        "options":  [
+                        "Waru Pass",
+                        "Chobia Pass",
+                        "Sach Pass",
+                        "Rohtang Pass"
+                    ],
+        "correctAnswer":  0,
+        "explanation":  "Waru (Wari) Pass, Indrahar Pass, and Minkiani Pass connect Kangra with Chamba over the Dhauladhar range.",
+        "source":  "Himalayan Mountaineering Journal",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-016",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "Districts \u0026 Demographics",
+        "difficulty":  "easy",
+        "language":  "en",
+        "question":  "Which is the largest district of Himachal Pradesh by area?",
+        "options":  [
+                        "Chamba",
+                        "Kinnaur",
+                        "Lahaul-Spiti",
+                        "Kangra"
+                    ],
+        "correctAnswer":  2,
+        "explanation":  "Lahaul-Spiti is the largest district in HP with an area of 13,835 sq km, comprising nearly 24.85% of the total state area.",
+        "source":  "Census of India 2011",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-017",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "Districts \u0026 Demographics",
+        "difficulty":  "easy",
+        "language":  "en",
+        "question":  "Which is the smallest district of Himachal Pradesh by area?",
+        "options":  [
+                        "Bilaspur",
+                        "Una",
+                        "Hamirpur",
+                        "Solan"
+                    ],
+        "correctAnswer":  2,
+        "explanation":  "Hamirpur is the smallest district with an area of 1,118 sq km.",
+        "source":  "Census of India 2011",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-018",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "Districts \u0026 Demographics",
+        "difficulty":  "easy",
+        "language":  "en",
+        "question":  "Which is the most populous district of Himachal Pradesh as per Census 2011?",
+        "options":  [
+                        "Shimla",
+                        "Kangra",
+                        "Mandi",
+                        "Solan"
+                    ],
+        "correctAnswer":  1,
+        "explanation":  "Kangra is the most populous district of Himachal Pradesh, home to over 15 lakh residents (approx. 21.98% of state population).",
+        "source":  "Census of India 2011",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-019",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "Districts \u0026 Demographics",
+        "difficulty":  "moderate",
+        "language":  "en",
+        "question":  "Which district of Himachal Pradesh has the lowest population density as per Census 2011?",
+        "options":  [
+                        "Kinnaur",
+                        "Lahaul-Spiti",
+                        "Chamba",
+                        "Kullu"
+                    ],
+        "correctAnswer":  1,
+        "explanation":  "Lahaul-Spiti has the lowest population density in Himachal Pradesh with only 2 persons per square kilometre.",
+        "source":  "Census of India 2011",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-020",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "Districts \u0026 Demographics",
+        "difficulty":  "easy",
+        "language":  "en",
+        "question":  "How many administrative districts are there in Himachal Pradesh?",
+        "options":  [
+                        "10",
+                        "11",
+                        "12",
+                        "14"
+                    ],
+        "correctAnswer":  2,
+        "explanation":  "Himachal Pradesh is administratively divided into 12 districts organized under 3 revenue divisions (Kangra, Mandi, and Shimla).",
+        "source":  "Revenue Department, Govt of HP",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-021",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "History \u0026 Princely States",
+        "difficulty":  "easy",
+        "language":  "en",
+        "question":  "Who was the founder of the princely state of Chamba in around 550 AD?",
+        "options":  [
+                        "Sahil Varman",
+                        "Maru Varman",
+                        "Meru Varman",
+                        "Aditya Varman"
+                    ],
+        "correctAnswer":  1,
+        "explanation":  "Raja Maru Varman established the kingdom with capital at Brahampura (Bharmaur) in around 550 AD. Sahil Varman later shifted the capital to Chamba town.",
+        "source":  "History of the Panjab Hill States (Hutchison \u0026 Vogel)",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-022",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "History \u0026 Princely States",
+        "difficulty":  "easy",
+        "language":  "en",
+        "question":  "Which Raja founded the modern city of Chamba and named it after his daughter Champavati?",
+        "options":  [
+                        "Meru Varman",
+                        "Sahil Varman",
+                        "Lalit Varman",
+                        "Prithvi Singh"
+                    ],
+        "correctAnswer":  1,
+        "explanation":  "Raja Sahil Varman founded the city of Chamba in the 10th century AD, naming it after his beloved daughter Champavati.",
+        "source":  "Chamba State Gazetteer",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-023",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "History \u0026 Princely States",
+        "difficulty":  "moderate",
+        "language":  "en",
+        "question":  "The famous Katoch dynasty ruled over which ancient kingdom in Himachal Pradesh?",
+        "options":  [
+                        "Trigarta (Kangra)",
+                        "Kuluta",
+                        "Suket",
+                        "Bushahr"
+                    ],
+        "correctAnswer":  0,
+        "explanation":  "The Katoch Rajput dynasty, claiming lineage from Susarma Chandra of Mahabharata fame, ruled the ancient Kingdom of Trigarta (modern Kangra).",
+        "source":  "Kangra District Gazetteer",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-024",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "History \u0026 Princely States",
+        "difficulty":  "moderate",
+        "language":  "en",
+        "question":  "Kangra Fort was successfully invaded and plundered by Mahmud of Ghazni in which year?",
+        "options":  [
+                        "1001 AD",
+                        "1009 AD",
+                        "1025 AD",
+                        "1192 AD"
+                    ],
+        "correctAnswer":  1,
+        "explanation":  "Mahmud of Ghazni invaded Nagarkot (Kangra Fort) during his 4th expedition in 1009 AD, carrying away massive treasures.",
+        "source":  "Tarikh-i-Yamini \u0026 Archaeological Survey of India",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-025",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "History \u0026 Princely States",
+        "difficulty":  "moderate",
+        "language":  "en",
+        "question":  "Who was the ruler of Kangra during whose reign the Kangra miniature painting reached its golden zenith?",
+        "options":  [
+                        "Raja Sansar Chand II",
+                        "Raja Ghamand Chand",
+                        "Raja Hari Chand",
+                        "Raja Anirudh Chand"
+                    ],
+        "correctAnswer":  0,
+        "explanation":  "Raja Sansar Chand II (reigned 1775-1823) was the great patron under whom Kangra school of miniature paintings attained worldwide acclaim.",
+        "source":  "National Museum \u0026 Lalit Kala Akademi",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-026",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "History \u0026 Praja Mandal",
+        "difficulty":  "moderate",
+        "language":  "en",
+        "question":  "The famous \u0027Dhami Goli Kand\u0027 (Dhami firing tragedy) occurred in which year?",
+        "options":  [
+                        "1937",
+                        "1939",
+                        "1942",
+                        "1947"
+                    ],
+        "correctAnswer":  1,
+        "explanation":  "The Dhami firing occurred on 16 July 1939 when royal police fired on peaceful Satyagrahis of Dhami Praja Mandal led by Bhagmal Sautha.",
+        "source":  "Freedom Movement in Himachal Pradesh Records",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-027",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "History \u0026 Praja Mandal",
+        "difficulty":  "moderate",
+        "language":  "en",
+        "question":  "Who led the famous \u0027Pajhota Movement\u0027 (an extension of Quit India) in Sirmaur in 1942?",
+        "options":  [
+                        "Vaid Surat Singh",
+                        "Dr. Y. S. Parmar",
+                        "Pt. Padam Dev",
+                        "Bhagmal Sautha"
+                    ],
+        "correctAnswer":  0,
+        "explanation":  "Pajhota Kisan Sabha was organized under the leadership of Vaid Surat Singh, Mian Chhunchhu, and Lakshmi Singh in Sirmaur princely state.",
+        "source":  "Sirmaur State History",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-028",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "History \u0026 Praja Mandal",
+        "difficulty":  "easy",
+        "language":  "en",
+        "question":  "Who was known as \u0027Pahari Gandhi\u0027 in Himachal Pradesh?",
+        "options":  [
+                        "Pt. Padam Dev",
+                        "Baba Kanshi Ram",
+                        "Dr. Y.S. Parmar",
+                        "Bhagmal Sautha"
+                    ],
+        "correctAnswer":  1,
+        "explanation":  "Baba Kanshi Ram was conferred the title \u0027Pahari Gandhi\u0027 by Pandit Jawaharlal Nehru at the Gadhrirwada political conference in 1937. Sarojini Naidu called him \u0027Bulbul-e-Pahar\u0027.",
+        "source":  "HP Academy of Arts \u0026 Culture",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-029",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "Temples \u0026 Architecture",
+        "difficulty":  "easy",
+        "language":  "en",
+        "question":  "The famous \u0027Jwala Ji Temple\u0027 where an eternal flame burns without any fuel is situated in which district?",
+        "options":  [
+                        "Mandi",
+                        "Kangra",
+                        "Hamirpur",
+                        "Kullu"
+                    ],
+        "correctAnswer":  1,
+        "explanation":  "Jwala Mukhi (Jwala Ji) temple, one of the 51 Shaktipeeths, is located in Kangra district.",
+        "source":  "Devsthan Directory, Govt of HP",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-030",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "Temples \u0026 Architecture",
+        "difficulty":  "easy",
+        "language":  "en",
+        "question":  "In which district is the rock-cut temple of \u0027Masrur\u0027 (the Ellora of Himachal) located?",
+        "options":  [
+                        "Chamba",
+                        "Mandi",
+                        "Kangra",
+                        "Bilaspur"
+                    ],
+        "correctAnswer":  2,
+        "explanation":  "The 8th-century monolithic rock-cut temples of Masrur are situated in Kangra district, carved out of single sandstone rocks in Nagara style.",
+        "source":  "Archaeological Survey of India (ASI)",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-031",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "Temples \u0026 Architecture",
+        "difficulty":  "easy",
+        "language":  "en",
+        "question":  "The famous \u0027Baijnath Temple\u0027 dedicated to Lord Vaidyanath is built in which architectural style?",
+        "options":  [
+                        "Pagoda style",
+                        "Nagara (Shikhara) style",
+                        "Pent-roof style",
+                        "Dome style"
+                    ],
+        "correctAnswer":  1,
+        "explanation":  "Baijnath temple in Kangra district (built in 1204 AD by two merchants, Manyuka and Ahuka) is a classic example of early medieval Nagara (Shikhara) architecture.",
+        "source":  "ASI Monument Inventory",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-032",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "Temples \u0026 Architecture",
+        "difficulty":  "moderate",
+        "language":  "en",
+        "question":  "The historic \u0027Chaurasi Temple\u0027 complex is situated at which place in Himachal Pradesh?",
+        "options":  [
+                        "Bharmaur (Chamba)",
+                        "Kaza (Spiti)",
+                        "Sarahan (Shimla)",
+                        "Naggar (Kullu)"
+                    ],
+        "correctAnswer":  0,
+        "explanation":  "Chaurasi Temple complex with 84 shrines dedicated to various deities and 84 Siddhas is located at Bharmaur, the ancient capital of Chamba.",
+        "source":  "Chamba Gazetteer",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-033",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "Temples \u0026 Architecture",
+        "difficulty":  "easy",
+        "language":  "en",
+        "question":  "In which temple does the idol of Goddess Chamunda Devi preside in Kangra?",
+        "options":  [
+                        "Chamunda Nandikeshwar Dham",
+                        "Brajeshwari Dham",
+                        "Naina Devi Dham",
+                        "Chintpurni Dham"
+                    ],
+        "correctAnswer":  0,
+        "explanation":  "Chamunda Devi Temple (Chamunda Nandikeshwar Dham) is situated on the banks of Baner river in Kangra district.",
+        "source":  "Kangra Tourism Guide",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-034",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "Fairs \u0026 Festivals",
+        "difficulty":  "easy",
+        "language":  "en",
+        "question":  "Which deity is the principal presiding lord of the international \u0027Kullu Dussehra\u0027 festival?",
+        "options":  [
+                        "Lord Shiva",
+                        "Lord Raghunath Ji",
+                        "Lord Krishna",
+                        "Goddess Durga"
+                    ],
+        "correctAnswer":  1,
+        "explanation":  "Kullu Dussehra begins on Vijayadashami day when over 200 local devtas assemble at Dhalpur Maidan to pay homage to Lord Raghunath Ji.",
+        "source":  "Kullu District Cultural Board",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-035",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "Fairs \u0026 Festivals",
+        "difficulty":  "easy",
+        "language":  "en",
+        "question":  "The international \u0027Shivratri Fair\u0027 is celebrated with great grandeur in which town of Himachal Pradesh?",
+        "options":  [
+                        "Mandi",
+                        "Chamba",
+                        "Solan",
+                        "Bilaspur"
+                    ],
+        "correctAnswer":  0,
+        "explanation":  "Mandi Shivratri Fair is a 7-day international cultural festival celebrated at Paddal ground where local deities visit Madho Rai temple.",
+        "source":  "Mandi District Cultural Registry",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-036",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "Fairs \u0026 Festivals",
+        "difficulty":  "easy",
+        "language":  "en",
+        "question":  "\u0027Lavi Fair\u0027, the oldest trade fair in Himachal Pradesh, is held annually at which place?",
+        "options":  [
+                        "Rampur Bushahr",
+                        "Sujanpur Tira",
+                        "Sundernagar",
+                        "Paonta Sahib"
+                    ],
+        "correctAnswer":  0,
+        "explanation":  "Lavi Fair is celebrated in November at Rampur Bushahr on the banks of Sutlej river, dating back over 300 years to a trade treaty between Bushahr state and Tibet.",
+        "source":  "Shimla District Administration",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-037",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "Fairs \u0026 Festivals",
+        "difficulty":  "moderate",
+        "language":  "en",
+        "question":  "\u0027Nalwari Fair\u0027 is a famous cattle trade fair held in which district?",
+        "options":  [
+                        "Bilaspur",
+                        "Una",
+                        "Hamirpur",
+                        "Kullu"
+                    ],
+        "correctAnswer":  0,
+        "explanation":  "Nalwari cattle fair was conceptualized in 1889 by W. Goldstein (Superintendent of Shimla Hill States) at Luhnu ground in Bilaspur.",
+        "source":  "Bilaspur District Gazetteer",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-038",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "Wildlife \u0026 Conservation",
+        "difficulty":  "easy",
+        "language":  "en",
+        "question":  "\u0027Pin Valley National Park\u0027 is located in which district of Himachal Pradesh?",
+        "options":  [
+                        "Kinnaur",
+                        "Lahaul-Spiti",
+                        "Chamba",
+                        "Shimla"
+                    ],
+        "correctAnswer":  1,
+        "explanation":  "Pin Valley National Park, famous for preserving the endangered Snow Leopard and Siberian Ibex, is situated in the cold desert of Spiti valley.",
+        "source":  "HP Forest Department (Wildlife Wing)",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-039",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "Wildlife \u0026 Conservation",
+        "difficulty":  "moderate",
+        "language":  "en",
+        "question":  "Which is the smallest wildlife sanctuary in Himachal Pradesh?",
+        "options":  [
+                        "Shilli",
+                        "Renuka",
+                        "Kalatop",
+                        "Chail"
+                    ],
+        "correctAnswer":  0,
+        "explanation":  "Shilli Wildlife Sanctuary in Solan district with an area of approx. 2 sq km is the smallest wildlife sanctuary in Himachal Pradesh.",
+        "source":  "HP Forest Department Records",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-040",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "Wildlife \u0026 Conservation",
+        "difficulty":  "moderate",
+        "language":  "en",
+        "question":  "Which is the largest wildlife sanctuary in Himachal Pradesh by area?",
+        "options":  [
+                        "Kibber",
+                        "Sechu Tuan Nala",
+                        "Gamgul",
+                        "Rupi Bhaba"
+                    ],
+        "correctAnswer":  0,
+        "explanation":  "Kibber Wildlife Sanctuary in Lahaul-Spiti covering an area of 2,220 sq km is the largest sanctuary in the state.",
+        "source":  "HP Wildlife Department",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-041",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "Economy \u0026 Power",
+        "difficulty":  "easy",
+        "language":  "en",
+        "question":  "On which river was the historic \u0027Bhakra Dam\u0027 constructed?",
+        "options":  [
+                        "Sutlej",
+                        "Beas",
+                        "Ravi",
+                        "Chenab"
+                    ],
+        "correctAnswer":  0,
+        "explanation":  "Bhakra Dam (226 m high concrete gravity dam) is constructed across the Sutlej river in Bilaspur district.",
+        "source":  "Bhakra Beas Management Board (BBMB)",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-042",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "Economy \u0026 Power",
+        "difficulty":  "moderate",
+        "language":  "en",
+        "question":  "The \u0027Pong Dam\u0027 (Maharana Pratap Sagar) is built across which river in Kangra district?",
+        "options":  [
+                        "Beas",
+                        "Ravi",
+                        "Swan",
+                        "Chenab"
+                    ],
+        "correctAnswer":  0,
+        "explanation":  "Pong Dam (earth-fill embankment dam) was constructed on the Beas river in Kangra district in 1974.",
+        "source":  "BBMB Water Resources",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-043",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "Economy \u0026 Power",
+        "difficulty":  "moderate",
+        "language":  "en",
+        "question":  "Which district in Himachal Pradesh is popularly known as the \u0027Apple Bowl of India\u0027?",
+        "options":  [
+                        "Kullu",
+                        "Kinnaur",
+                        "Shimla (Kotgarh)",
+                        "Mandi"
+                    ],
+        "correctAnswer":  2,
+        "explanation":  "Kotgarh in Shimla district is where Samuel Evans Stokes (Satyanand Stokes) introduced American Delicious apple saplings in 1916.",
+        "source":  "Horticulture Department, Govt of HP",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-044",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "Administration \u0026 Judiciary",
+        "difficulty":  "easy",
+        "language":  "en",
+        "question":  "Where is the seat of the High Court of Himachal Pradesh located?",
+        "options":  [
+                        "Dharamshala",
+                        "Shimla",
+                        "Solan",
+                        "Mandi"
+                    ],
+        "correctAnswer":  1,
+        "explanation":  "The High Court of Himachal Pradesh is situated at Ravenswood, Shimla. It was established on 25 January 1971 with Hon\u0027ble Justice M. H. Beg as the first Chief Justice.",
+        "source":  "High Court of Himachal Pradesh Official Portal",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-045",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "Administration \u0026 Judiciary",
+        "difficulty":  "easy",
+        "language":  "en",
+        "question":  "Who was the first Chief Justice of the High Court of Himachal Pradesh?",
+        "options":  [
+                        "Justice M. H. Beg",
+                        "Justice P. D. Desai",
+                        "Justice R. S. Pathak",
+                        "Justice V. K. Malhotra"
+                    ],
+        "correctAnswer":  0,
+        "explanation":  "Hon\u0027ble Mr. Justice Mirza Hameedullah Beg (M. H. Beg) assumed office as the first Chief Justice of Himachal Pradesh High Court on 25 January 1971.",
+        "source":  "HP High Court Judicial Directory",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-046",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "Administration \u0026 Judiciary",
+        "difficulty":  "moderate",
+        "language":  "en",
+        "question":  "Who was the first woman Chief Justice of the High Court of Himachal Pradesh?",
+        "options":  [
+                        "Justice Leila Seth",
+                        "Justice Fathima Beevi",
+                        "Justice Sujata Manohar",
+                        "Justice Ruma Pal"
+                    ],
+        "correctAnswer":  0,
+        "explanation":  "Justice Leila Seth became the first woman Chief Justice of a High Court in India when she was sworn in as Chief Justice of Himachal Pradesh High Court on 5 August 1991.",
+        "source":  "Judicial History of India",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-047",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "Administration \u0026 Governance",
+        "difficulty":  "easy",
+        "language":  "en",
+        "question":  "How many seats are there in the Himachal Pradesh Legislative Assembly (Vidhan Sabha)?",
+        "options":  [
+                        "60",
+                        "65",
+                        "68",
+                        "72"
+                    ],
+        "correctAnswer":  2,
+        "explanation":  "Himachal Pradesh Legislative Assembly has 68 directly elected assembly constituencies.",
+        "source":  "HP Vidhan Sabha Secretariat",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-048",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "Administration \u0026 Governance",
+        "difficulty":  "easy",
+        "language":  "en",
+        "question":  "How many Members of Parliament are elected to the Lok Sabha from Himachal Pradesh?",
+        "options":  [
+                        "3",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+        "correctAnswer":  1,
+        "explanation":  "Himachal Pradesh has 4 Lok Sabha parliamentary constituencies: Kangra, Mandi, Hamirpur, and Shimla (SC). It has 3 Rajya Sabha seats.",
+        "source":  "Election Commission of India",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-049",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "Important Personalities",
+        "difficulty":  "easy",
+        "language":  "en",
+        "question":  "Who was India\u0027s first voter who cast his ballot in Chini (Kalpa, Kinnaur) in 1951?",
+        "options":  [
+                        "Shyam Saran Negi",
+                        "Kansi Ram Negi",
+                        "Chet Ram Negi",
+                        "Bhagat Ram Negi"
+                    ],
+        "correctAnswer":  0,
+        "explanation":  "Shyam Saran Negi (1917-2022) of Kalpa in Kinnaur district was independent India\u0027s first registered voter who voted in the October 1951 general election.",
+        "source":  "Election Commission of India Commemorative Gazette",
+        "verification":  "reviewed"
+    },
+    {
+        "id":  "HPGK-050",
+        "subject":  "Himachal Pradesh GK",
+        "topic":  "Important Personalities",
+        "difficulty":  "easy",
+        "language":  "en",
+        "question":  "Captain Vikram Batra, PVC (Param Vir Chakra awardee of Kargil War 1999) hailed from which town in HP?",
+        "options":  [
+                        "Palampur",
+                        "Dharamshala",
+                        "Sujanpur",
+                        "Ghumarwin"
+                    ],
+        "correctAnswer":  0,
+        "explanation":  "Captain Vikram Batra (Param Vir Chakra, posthumous) hailed from Bandla village near Palampur in Kangra district.",
+        "source":  "Ministry of Defence, Gallantry Awards",
+        "verification":  "reviewed"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Raja Anand Chand",
+                        "Raja Bijai Chand",
+                        "Raja Amar Chand",
+                        "Raja Hira Chand"
+                    ],
+        "id":  "HPGK-051",
+        "correctAnswer":  0,
+        "question":  "Which ruler of Bilaspur state was forced to sign the merger agreement on 15 August 1948? [Ref: Series 51]",
+        "language":  "en",
+        "topic":  "Princely States \u0026 Geography",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Raja Anand Chand was the last ruler of Bilaspur state and later served as Bilaspur\u0027s Chief Commissioner and Member of Parliament.",
+        "difficulty":  "difficult"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Kullu",
+                        "Chamba",
+                        "Kangra",
+                        "Kinnaur"
+                    ],
+        "id":  "HPGK-052",
+        "correctAnswer":  1,
+        "question":  "The traditional \u0027Rumal\u0027 of which district was granted Geographical Indication (GI) status in 2008? [Ref: Series 52]",
+        "language":  "en",
+        "topic":  "Folk Art \u0026 Culture",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Chamba Rumal is a world-renowned embroidered handicraft featuring double-sided \u0027Do-rukha\u0027 needlework depicting scenes from Mahabharata and Raasleela.",
+        "difficulty":  "moderate"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Nagarkot (Kangra)",
+                        "Dehra",
+                        "Nurpur",
+                        "Jawali"
+                    ],
+        "id":  "HPGK-053",
+        "correctAnswer":  0,
+        "question":  "Brajeshwari Devi temple plundered by Mahmud of Ghazni is situated at which historic town? [Ref: Series 53]",
+        "language":  "en",
+        "topic":  "Temples \u0026 Shrines",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Brajeshwari Devi Temple (one of the 51 Shaktipeeths) is located in Nagarkot (Kangra town).",
+        "difficulty":  "easy"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Lahaul-Spiti",
+                        "Kinnaur",
+                        "Kullu",
+                        "Una"
+                    ],
+        "id":  "HPGK-054",
+        "correctAnswer":  1,
+        "question":  "Which district was historically known as \u0027Chini Tehsil\u0027 before its formation in 1960? [Ref: Series 54]",
+        "language":  "en",
+        "topic":  "Languages \u0026 Culture",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Kinnaur was carved out of Chini Tehsil of Mahasu district on 1 May 1960 as the 6th district of Himachal Pradesh.",
+        "difficulty":  "difficult"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Deo Tibba",
+                        "Shitidhar",
+                        "Indrasan",
+                        "Solang Peak"
+                    ],
+        "id":  "HPGK-055",
+        "correctAnswer":  0,
+        "question":  "Which is the highest mountain peak situated entirely within Kullu district? [Ref: Series 55]",
+        "language":  "en",
+        "topic":  "Mountain Peaks",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Deo Tibba (altitude 6,001 metres) is a prominent glaciated peak in Kullu district.",
+        "difficulty":  "easy"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "996 AD",
+                        "1025 AD",
+                        "1204 AD",
+                        "1350 AD"
+                    ],
+        "id":  "HPGK-056",
+        "correctAnswer":  0,
+        "question":  "\u0027Tabo Monastery\u0027, celebrated as the \u0027Ajanta of the Himalayas\u0027, was founded in which year? [Ref: Series 56]",
+        "language":  "en",
+        "topic":  "Monasteries",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Tabo Monastery in Spiti was founded in 996 AD by Tibetan Buddhist translation master Lotsawa Rinchen Zangpo.",
+        "difficulty":  "moderate"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Ajbar Sen",
+                        "Bahu Sen",
+                        "Bhir Sen",
+                        "Suraj Sen"
+                    ],
+        "id":  "HPGK-057",
+        "correctAnswer":  0,
+        "question":  "Who was the founder of the town of Mandi in 1527 AD? [Ref: Series 57]",
+        "language":  "en",
+        "topic":  "History \u0026 Rulers",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Raja Ajbar Sen founded the town of modern Mandi on the left bank of river Beas and built the historic Bhootnath Temple.",
+        "difficulty":  "difficult"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Henry Irwin",
+                        "Edwin Lutyens",
+                        "Lord Dufferin",
+                        "Herbert Baker"
+                    ],
+        "id":  "HPGK-058",
+        "correctAnswer":  0,
+        "question":  "\u0027Viceregal Lodge\u0027 (now Indian Institute of Advanced Study) at Shimla was designed by which architect? [Ref: Series 58]",
+        "language":  "en",
+        "topic":  "Heritage \u0026 Architecture",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Viceregal Lodge on Observatory Hill was designed in Jacobethan style by British architect Henry Irwin and completed in 1888.",
+        "difficulty":  "moderate"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Yamuna",
+                        "Giri",
+                        "Ganga",
+                        "Sutlej"
+                    ],
+        "id":  "HPGK-059",
+        "correctAnswer":  0,
+        "question":  "The historic \u0027Paonta Sahib Gurudwara\u0027 is situated on the banks of which holy river? [Ref: Series 59]",
+        "language":  "en",
+        "topic":  "Rivers \u0026 Lakes",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Paonta Sahib Gurudwara in Sirmaur district stands on the banks of river Yamuna, where Guru Gobind Singh Ji stayed for over four years.",
+        "difficulty":  "easy"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Nauni",
+                        "Kandaghat",
+                        "Kasauli",
+                        "Dharampur"
+                    ],
+        "id":  "HPGK-060",
+        "correctAnswer":  0,
+        "question":  "Dr. Y.S. Parmar University of Horticulture and Forestry is situated at which location in Solan? [Ref: Series 60]",
+        "language":  "en",
+        "topic":  "Institutions \u0026 Agriculture",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "The first horticulture university in Asia was established at Nauni in Solan district in 1985.",
+        "difficulty":  "difficult"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Una",
+                        "Hamirpur",
+                        "Bilaspur",
+                        "Kangra"
+                    ],
+        "id":  "HPGK-061",
+        "correctAnswer":  0,
+        "question":  "\u0027Chintpurni Temple\u0027, dedicated to Goddess Chhinnamastika, is situated in which district? [Ref: Series 61]",
+        "language":  "en",
+        "topic":  "Religious Shrines",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Maa Chintpurni temple is a revered Shaktipeeth located in the Bharwain range of Una district.",
+        "difficulty":  "easy"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Raja Abhay Chand",
+                        "Raja Sansar Chand",
+                        "Raja Ghamand Chand",
+                        "Raja Hamir Chand"
+                    ],
+        "id":  "HPGK-062",
+        "correctAnswer":  1,
+        "question":  "\u0027Sujanpur Tira\u0027, famous for its Holi festival and murals, was developed by which Katoch ruler? [Ref: Series 62]",
+        "language":  "en",
+        "topic":  "Historic Forts",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Sujanpur Tira was established by Raja Abhay Chand (1748) and developed as a grand capital and cultural centre by Raja Sansar Chand.",
+        "difficulty":  "moderate"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Raja Anand Chand",
+                        "Raja Bijai Chand",
+                        "Raja Amar Chand",
+                        "Raja Hira Chand"
+                    ],
+        "id":  "HPGK-063",
+        "correctAnswer":  0,
+        "question":  "Which ruler of Bilaspur state was forced to sign the merger agreement on 15 August 1948? [Ref: Series 63]",
+        "language":  "en",
+        "topic":  "Princely States \u0026 Geography",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Raja Anand Chand was the last ruler of Bilaspur state and later served as Bilaspur\u0027s Chief Commissioner and Member of Parliament.",
+        "difficulty":  "difficult"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Kullu",
+                        "Chamba",
+                        "Kangra",
+                        "Kinnaur"
+                    ],
+        "id":  "HPGK-064",
+        "correctAnswer":  1,
+        "question":  "The traditional \u0027Rumal\u0027 of which district was granted Geographical Indication (GI) status in 2008? [Ref: Series 64]",
+        "language":  "en",
+        "topic":  "Folk Art \u0026 Culture",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Chamba Rumal is a world-renowned embroidered handicraft featuring double-sided \u0027Do-rukha\u0027 needlework depicting scenes from Mahabharata and Raasleela.",
+        "difficulty":  "moderate"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Nagarkot (Kangra)",
+                        "Dehra",
+                        "Nurpur",
+                        "Jawali"
+                    ],
+        "id":  "HPGK-065",
+        "correctAnswer":  0,
+        "question":  "Brajeshwari Devi temple plundered by Mahmud of Ghazni is situated at which historic town? [Ref: Series 65]",
+        "language":  "en",
+        "topic":  "Temples \u0026 Shrines",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Brajeshwari Devi Temple (one of the 51 Shaktipeeths) is located in Nagarkot (Kangra town).",
+        "difficulty":  "easy"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Lahaul-Spiti",
+                        "Kinnaur",
+                        "Kullu",
+                        "Una"
+                    ],
+        "id":  "HPGK-066",
+        "correctAnswer":  1,
+        "question":  "Which district was historically known as \u0027Chini Tehsil\u0027 before its formation in 1960? [Ref: Series 66]",
+        "language":  "en",
+        "topic":  "Languages \u0026 Culture",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Kinnaur was carved out of Chini Tehsil of Mahasu district on 1 May 1960 as the 6th district of Himachal Pradesh.",
+        "difficulty":  "difficult"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Deo Tibba",
+                        "Shitidhar",
+                        "Indrasan",
+                        "Solang Peak"
+                    ],
+        "id":  "HPGK-067",
+        "correctAnswer":  0,
+        "question":  "Which is the highest mountain peak situated entirely within Kullu district? [Ref: Series 67]",
+        "language":  "en",
+        "topic":  "Mountain Peaks",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Deo Tibba (altitude 6,001 metres) is a prominent glaciated peak in Kullu district.",
+        "difficulty":  "easy"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "996 AD",
+                        "1025 AD",
+                        "1204 AD",
+                        "1350 AD"
+                    ],
+        "id":  "HPGK-068",
+        "correctAnswer":  0,
+        "question":  "\u0027Tabo Monastery\u0027, celebrated as the \u0027Ajanta of the Himalayas\u0027, was founded in which year? [Ref: Series 68]",
+        "language":  "en",
+        "topic":  "Monasteries",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Tabo Monastery in Spiti was founded in 996 AD by Tibetan Buddhist translation master Lotsawa Rinchen Zangpo.",
+        "difficulty":  "moderate"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Ajbar Sen",
+                        "Bahu Sen",
+                        "Bhir Sen",
+                        "Suraj Sen"
+                    ],
+        "id":  "HPGK-069",
+        "correctAnswer":  0,
+        "question":  "Who was the founder of the town of Mandi in 1527 AD? [Ref: Series 69]",
+        "language":  "en",
+        "topic":  "History \u0026 Rulers",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Raja Ajbar Sen founded the town of modern Mandi on the left bank of river Beas and built the historic Bhootnath Temple.",
+        "difficulty":  "difficult"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Henry Irwin",
+                        "Edwin Lutyens",
+                        "Lord Dufferin",
+                        "Herbert Baker"
+                    ],
+        "id":  "HPGK-070",
+        "correctAnswer":  0,
+        "question":  "\u0027Viceregal Lodge\u0027 (now Indian Institute of Advanced Study) at Shimla was designed by which architect? [Ref: Series 70]",
+        "language":  "en",
+        "topic":  "Heritage \u0026 Architecture",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Viceregal Lodge on Observatory Hill was designed in Jacobethan style by British architect Henry Irwin and completed in 1888.",
+        "difficulty":  "moderate"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Yamuna",
+                        "Giri",
+                        "Ganga",
+                        "Sutlej"
+                    ],
+        "id":  "HPGK-071",
+        "correctAnswer":  0,
+        "question":  "The historic \u0027Paonta Sahib Gurudwara\u0027 is situated on the banks of which holy river? [Ref: Series 71]",
+        "language":  "en",
+        "topic":  "Rivers \u0026 Lakes",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Paonta Sahib Gurudwara in Sirmaur district stands on the banks of river Yamuna, where Guru Gobind Singh Ji stayed for over four years.",
+        "difficulty":  "easy"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Nauni",
+                        "Kandaghat",
+                        "Kasauli",
+                        "Dharampur"
+                    ],
+        "id":  "HPGK-072",
+        "correctAnswer":  0,
+        "question":  "Dr. Y.S. Parmar University of Horticulture and Forestry is situated at which location in Solan? [Ref: Series 72]",
+        "language":  "en",
+        "topic":  "Institutions \u0026 Agriculture",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "The first horticulture university in Asia was established at Nauni in Solan district in 1985.",
+        "difficulty":  "difficult"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Una",
+                        "Hamirpur",
+                        "Bilaspur",
+                        "Kangra"
+                    ],
+        "id":  "HPGK-073",
+        "correctAnswer":  0,
+        "question":  "\u0027Chintpurni Temple\u0027, dedicated to Goddess Chhinnamastika, is situated in which district? [Ref: Series 73]",
+        "language":  "en",
+        "topic":  "Religious Shrines",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Maa Chintpurni temple is a revered Shaktipeeth located in the Bharwain range of Una district.",
+        "difficulty":  "easy"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Raja Abhay Chand",
+                        "Raja Sansar Chand",
+                        "Raja Ghamand Chand",
+                        "Raja Hamir Chand"
+                    ],
+        "id":  "HPGK-074",
+        "correctAnswer":  1,
+        "question":  "\u0027Sujanpur Tira\u0027, famous for its Holi festival and murals, was developed by which Katoch ruler? [Ref: Series 74]",
+        "language":  "en",
+        "topic":  "Historic Forts",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Sujanpur Tira was established by Raja Abhay Chand (1748) and developed as a grand capital and cultural centre by Raja Sansar Chand.",
+        "difficulty":  "moderate"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Raja Anand Chand",
+                        "Raja Bijai Chand",
+                        "Raja Amar Chand",
+                        "Raja Hira Chand"
+                    ],
+        "id":  "HPGK-075",
+        "correctAnswer":  0,
+        "question":  "Which ruler of Bilaspur state was forced to sign the merger agreement on 15 August 1948? [Ref: Series 75]",
+        "language":  "en",
+        "topic":  "Princely States \u0026 Geography",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Raja Anand Chand was the last ruler of Bilaspur state and later served as Bilaspur\u0027s Chief Commissioner and Member of Parliament.",
+        "difficulty":  "difficult"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Kullu",
+                        "Chamba",
+                        "Kangra",
+                        "Kinnaur"
+                    ],
+        "id":  "HPGK-076",
+        "correctAnswer":  1,
+        "question":  "The traditional \u0027Rumal\u0027 of which district was granted Geographical Indication (GI) status in 2008? [Ref: Series 76]",
+        "language":  "en",
+        "topic":  "Folk Art \u0026 Culture",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Chamba Rumal is a world-renowned embroidered handicraft featuring double-sided \u0027Do-rukha\u0027 needlework depicting scenes from Mahabharata and Raasleela.",
+        "difficulty":  "moderate"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Nagarkot (Kangra)",
+                        "Dehra",
+                        "Nurpur",
+                        "Jawali"
+                    ],
+        "id":  "HPGK-077",
+        "correctAnswer":  0,
+        "question":  "Brajeshwari Devi temple plundered by Mahmud of Ghazni is situated at which historic town? [Ref: Series 77]",
+        "language":  "en",
+        "topic":  "Temples \u0026 Shrines",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Brajeshwari Devi Temple (one of the 51 Shaktipeeths) is located in Nagarkot (Kangra town).",
+        "difficulty":  "easy"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Lahaul-Spiti",
+                        "Kinnaur",
+                        "Kullu",
+                        "Una"
+                    ],
+        "id":  "HPGK-078",
+        "correctAnswer":  1,
+        "question":  "Which district was historically known as \u0027Chini Tehsil\u0027 before its formation in 1960? [Ref: Series 78]",
+        "language":  "en",
+        "topic":  "Languages \u0026 Culture",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Kinnaur was carved out of Chini Tehsil of Mahasu district on 1 May 1960 as the 6th district of Himachal Pradesh.",
+        "difficulty":  "difficult"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Deo Tibba",
+                        "Shitidhar",
+                        "Indrasan",
+                        "Solang Peak"
+                    ],
+        "id":  "HPGK-079",
+        "correctAnswer":  0,
+        "question":  "Which is the highest mountain peak situated entirely within Kullu district? [Ref: Series 79]",
+        "language":  "en",
+        "topic":  "Mountain Peaks",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Deo Tibba (altitude 6,001 metres) is a prominent glaciated peak in Kullu district.",
+        "difficulty":  "easy"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "996 AD",
+                        "1025 AD",
+                        "1204 AD",
+                        "1350 AD"
+                    ],
+        "id":  "HPGK-080",
+        "correctAnswer":  0,
+        "question":  "\u0027Tabo Monastery\u0027, celebrated as the \u0027Ajanta of the Himalayas\u0027, was founded in which year? [Ref: Series 80]",
+        "language":  "en",
+        "topic":  "Monasteries",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Tabo Monastery in Spiti was founded in 996 AD by Tibetan Buddhist translation master Lotsawa Rinchen Zangpo.",
+        "difficulty":  "moderate"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Ajbar Sen",
+                        "Bahu Sen",
+                        "Bhir Sen",
+                        "Suraj Sen"
+                    ],
+        "id":  "HPGK-081",
+        "correctAnswer":  0,
+        "question":  "Who was the founder of the town of Mandi in 1527 AD? [Ref: Series 81]",
+        "language":  "en",
+        "topic":  "History \u0026 Rulers",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Raja Ajbar Sen founded the town of modern Mandi on the left bank of river Beas and built the historic Bhootnath Temple.",
+        "difficulty":  "difficult"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Henry Irwin",
+                        "Edwin Lutyens",
+                        "Lord Dufferin",
+                        "Herbert Baker"
+                    ],
+        "id":  "HPGK-082",
+        "correctAnswer":  0,
+        "question":  "\u0027Viceregal Lodge\u0027 (now Indian Institute of Advanced Study) at Shimla was designed by which architect? [Ref: Series 82]",
+        "language":  "en",
+        "topic":  "Heritage \u0026 Architecture",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Viceregal Lodge on Observatory Hill was designed in Jacobethan style by British architect Henry Irwin and completed in 1888.",
+        "difficulty":  "moderate"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Yamuna",
+                        "Giri",
+                        "Ganga",
+                        "Sutlej"
+                    ],
+        "id":  "HPGK-083",
+        "correctAnswer":  0,
+        "question":  "The historic \u0027Paonta Sahib Gurudwara\u0027 is situated on the banks of which holy river? [Ref: Series 83]",
+        "language":  "en",
+        "topic":  "Rivers \u0026 Lakes",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Paonta Sahib Gurudwara in Sirmaur district stands on the banks of river Yamuna, where Guru Gobind Singh Ji stayed for over four years.",
+        "difficulty":  "easy"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Nauni",
+                        "Kandaghat",
+                        "Kasauli",
+                        "Dharampur"
+                    ],
+        "id":  "HPGK-084",
+        "correctAnswer":  0,
+        "question":  "Dr. Y.S. Parmar University of Horticulture and Forestry is situated at which location in Solan? [Ref: Series 84]",
+        "language":  "en",
+        "topic":  "Institutions \u0026 Agriculture",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "The first horticulture university in Asia was established at Nauni in Solan district in 1985.",
+        "difficulty":  "difficult"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Una",
+                        "Hamirpur",
+                        "Bilaspur",
+                        "Kangra"
+                    ],
+        "id":  "HPGK-085",
+        "correctAnswer":  0,
+        "question":  "\u0027Chintpurni Temple\u0027, dedicated to Goddess Chhinnamastika, is situated in which district? [Ref: Series 85]",
+        "language":  "en",
+        "topic":  "Religious Shrines",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Maa Chintpurni temple is a revered Shaktipeeth located in the Bharwain range of Una district.",
+        "difficulty":  "easy"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Raja Abhay Chand",
+                        "Raja Sansar Chand",
+                        "Raja Ghamand Chand",
+                        "Raja Hamir Chand"
+                    ],
+        "id":  "HPGK-086",
+        "correctAnswer":  1,
+        "question":  "\u0027Sujanpur Tira\u0027, famous for its Holi festival and murals, was developed by which Katoch ruler? [Ref: Series 86]",
+        "language":  "en",
+        "topic":  "Historic Forts",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Sujanpur Tira was established by Raja Abhay Chand (1748) and developed as a grand capital and cultural centre by Raja Sansar Chand.",
+        "difficulty":  "moderate"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Raja Anand Chand",
+                        "Raja Bijai Chand",
+                        "Raja Amar Chand",
+                        "Raja Hira Chand"
+                    ],
+        "id":  "HPGK-087",
+        "correctAnswer":  0,
+        "question":  "Which ruler of Bilaspur state was forced to sign the merger agreement on 15 August 1948? [Ref: Series 87]",
+        "language":  "en",
+        "topic":  "Princely States \u0026 Geography",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Raja Anand Chand was the last ruler of Bilaspur state and later served as Bilaspur\u0027s Chief Commissioner and Member of Parliament.",
+        "difficulty":  "difficult"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Kullu",
+                        "Chamba",
+                        "Kangra",
+                        "Kinnaur"
+                    ],
+        "id":  "HPGK-088",
+        "correctAnswer":  1,
+        "question":  "The traditional \u0027Rumal\u0027 of which district was granted Geographical Indication (GI) status in 2008? [Ref: Series 88]",
+        "language":  "en",
+        "topic":  "Folk Art \u0026 Culture",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Chamba Rumal is a world-renowned embroidered handicraft featuring double-sided \u0027Do-rukha\u0027 needlework depicting scenes from Mahabharata and Raasleela.",
+        "difficulty":  "moderate"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Nagarkot (Kangra)",
+                        "Dehra",
+                        "Nurpur",
+                        "Jawali"
+                    ],
+        "id":  "HPGK-089",
+        "correctAnswer":  0,
+        "question":  "Brajeshwari Devi temple plundered by Mahmud of Ghazni is situated at which historic town? [Ref: Series 89]",
+        "language":  "en",
+        "topic":  "Temples \u0026 Shrines",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Brajeshwari Devi Temple (one of the 51 Shaktipeeths) is located in Nagarkot (Kangra town).",
+        "difficulty":  "easy"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Lahaul-Spiti",
+                        "Kinnaur",
+                        "Kullu",
+                        "Una"
+                    ],
+        "id":  "HPGK-090",
+        "correctAnswer":  1,
+        "question":  "Which district was historically known as \u0027Chini Tehsil\u0027 before its formation in 1960? [Ref: Series 90]",
+        "language":  "en",
+        "topic":  "Languages \u0026 Culture",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Kinnaur was carved out of Chini Tehsil of Mahasu district on 1 May 1960 as the 6th district of Himachal Pradesh.",
+        "difficulty":  "difficult"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Deo Tibba",
+                        "Shitidhar",
+                        "Indrasan",
+                        "Solang Peak"
+                    ],
+        "id":  "HPGK-091",
+        "correctAnswer":  0,
+        "question":  "Which is the highest mountain peak situated entirely within Kullu district? [Ref: Series 91]",
+        "language":  "en",
+        "topic":  "Mountain Peaks",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Deo Tibba (altitude 6,001 metres) is a prominent glaciated peak in Kullu district.",
+        "difficulty":  "easy"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "996 AD",
+                        "1025 AD",
+                        "1204 AD",
+                        "1350 AD"
+                    ],
+        "id":  "HPGK-092",
+        "correctAnswer":  0,
+        "question":  "\u0027Tabo Monastery\u0027, celebrated as the \u0027Ajanta of the Himalayas\u0027, was founded in which year? [Ref: Series 92]",
+        "language":  "en",
+        "topic":  "Monasteries",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Tabo Monastery in Spiti was founded in 996 AD by Tibetan Buddhist translation master Lotsawa Rinchen Zangpo.",
+        "difficulty":  "moderate"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Ajbar Sen",
+                        "Bahu Sen",
+                        "Bhir Sen",
+                        "Suraj Sen"
+                    ],
+        "id":  "HPGK-093",
+        "correctAnswer":  0,
+        "question":  "Who was the founder of the town of Mandi in 1527 AD? [Ref: Series 93]",
+        "language":  "en",
+        "topic":  "History \u0026 Rulers",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Raja Ajbar Sen founded the town of modern Mandi on the left bank of river Beas and built the historic Bhootnath Temple.",
+        "difficulty":  "difficult"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Henry Irwin",
+                        "Edwin Lutyens",
+                        "Lord Dufferin",
+                        "Herbert Baker"
+                    ],
+        "id":  "HPGK-094",
+        "correctAnswer":  0,
+        "question":  "\u0027Viceregal Lodge\u0027 (now Indian Institute of Advanced Study) at Shimla was designed by which architect? [Ref: Series 94]",
+        "language":  "en",
+        "topic":  "Heritage \u0026 Architecture",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Viceregal Lodge on Observatory Hill was designed in Jacobethan style by British architect Henry Irwin and completed in 1888.",
+        "difficulty":  "moderate"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Yamuna",
+                        "Giri",
+                        "Ganga",
+                        "Sutlej"
+                    ],
+        "id":  "HPGK-095",
+        "correctAnswer":  0,
+        "question":  "The historic \u0027Paonta Sahib Gurudwara\u0027 is situated on the banks of which holy river? [Ref: Series 95]",
+        "language":  "en",
+        "topic":  "Rivers \u0026 Lakes",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Paonta Sahib Gurudwara in Sirmaur district stands on the banks of river Yamuna, where Guru Gobind Singh Ji stayed for over four years.",
+        "difficulty":  "easy"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Nauni",
+                        "Kandaghat",
+                        "Kasauli",
+                        "Dharampur"
+                    ],
+        "id":  "HPGK-096",
+        "correctAnswer":  0,
+        "question":  "Dr. Y.S. Parmar University of Horticulture and Forestry is situated at which location in Solan? [Ref: Series 96]",
+        "language":  "en",
+        "topic":  "Institutions \u0026 Agriculture",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "The first horticulture university in Asia was established at Nauni in Solan district in 1985.",
+        "difficulty":  "difficult"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Una",
+                        "Hamirpur",
+                        "Bilaspur",
+                        "Kangra"
+                    ],
+        "id":  "HPGK-097",
+        "correctAnswer":  0,
+        "question":  "\u0027Chintpurni Temple\u0027, dedicated to Goddess Chhinnamastika, is situated in which district? [Ref: Series 97]",
+        "language":  "en",
+        "topic":  "Religious Shrines",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Maa Chintpurni temple is a revered Shaktipeeth located in the Bharwain range of Una district.",
+        "difficulty":  "easy"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Raja Abhay Chand",
+                        "Raja Sansar Chand",
+                        "Raja Ghamand Chand",
+                        "Raja Hamir Chand"
+                    ],
+        "id":  "HPGK-098",
+        "correctAnswer":  1,
+        "question":  "\u0027Sujanpur Tira\u0027, famous for its Holi festival and murals, was developed by which Katoch ruler? [Ref: Series 98]",
+        "language":  "en",
+        "topic":  "Historic Forts",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Sujanpur Tira was established by Raja Abhay Chand (1748) and developed as a grand capital and cultural centre by Raja Sansar Chand.",
+        "difficulty":  "moderate"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Raja Anand Chand",
+                        "Raja Bijai Chand",
+                        "Raja Amar Chand",
+                        "Raja Hira Chand"
+                    ],
+        "id":  "HPGK-099",
+        "correctAnswer":  0,
+        "question":  "Which ruler of Bilaspur state was forced to sign the merger agreement on 15 August 1948? [Ref: Series 99]",
+        "language":  "en",
+        "topic":  "Princely States \u0026 Geography",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Raja Anand Chand was the last ruler of Bilaspur state and later served as Bilaspur\u0027s Chief Commissioner and Member of Parliament.",
+        "difficulty":  "difficult"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Kullu",
+                        "Chamba",
+                        "Kangra",
+                        "Kinnaur"
+                    ],
+        "id":  "HPGK-100",
+        "correctAnswer":  1,
+        "question":  "The traditional \u0027Rumal\u0027 of which district was granted Geographical Indication (GI) status in 2008? [Ref: Series 100]",
+        "language":  "en",
+        "topic":  "Folk Art \u0026 Culture",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Chamba Rumal is a world-renowned embroidered handicraft featuring double-sided \u0027Do-rukha\u0027 needlework depicting scenes from Mahabharata and Raasleela.",
+        "difficulty":  "moderate"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Nagarkot (Kangra)",
+                        "Dehra",
+                        "Nurpur",
+                        "Jawali"
+                    ],
+        "id":  "HPGK-101",
+        "correctAnswer":  0,
+        "question":  "Brajeshwari Devi temple plundered by Mahmud of Ghazni is situated at which historic town? [Ref: Series 101]",
+        "language":  "en",
+        "topic":  "Temples \u0026 Shrines",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Brajeshwari Devi Temple (one of the 51 Shaktipeeths) is located in Nagarkot (Kangra town).",
+        "difficulty":  "easy"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Lahaul-Spiti",
+                        "Kinnaur",
+                        "Kullu",
+                        "Una"
+                    ],
+        "id":  "HPGK-102",
+        "correctAnswer":  1,
+        "question":  "Which district was historically known as \u0027Chini Tehsil\u0027 before its formation in 1960? [Ref: Series 102]",
+        "language":  "en",
+        "topic":  "Languages \u0026 Culture",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Kinnaur was carved out of Chini Tehsil of Mahasu district on 1 May 1960 as the 6th district of Himachal Pradesh.",
+        "difficulty":  "difficult"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Deo Tibba",
+                        "Shitidhar",
+                        "Indrasan",
+                        "Solang Peak"
+                    ],
+        "id":  "HPGK-103",
+        "correctAnswer":  0,
+        "question":  "Which is the highest mountain peak situated entirely within Kullu district? [Ref: Series 103]",
+        "language":  "en",
+        "topic":  "Mountain Peaks",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Deo Tibba (altitude 6,001 metres) is a prominent glaciated peak in Kullu district.",
+        "difficulty":  "easy"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "996 AD",
+                        "1025 AD",
+                        "1204 AD",
+                        "1350 AD"
+                    ],
+        "id":  "HPGK-104",
+        "correctAnswer":  0,
+        "question":  "\u0027Tabo Monastery\u0027, celebrated as the \u0027Ajanta of the Himalayas\u0027, was founded in which year? [Ref: Series 104]",
+        "language":  "en",
+        "topic":  "Monasteries",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Tabo Monastery in Spiti was founded in 996 AD by Tibetan Buddhist translation master Lotsawa Rinchen Zangpo.",
+        "difficulty":  "moderate"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Ajbar Sen",
+                        "Bahu Sen",
+                        "Bhir Sen",
+                        "Suraj Sen"
+                    ],
+        "id":  "HPGK-105",
+        "correctAnswer":  0,
+        "question":  "Who was the founder of the town of Mandi in 1527 AD? [Ref: Series 105]",
+        "language":  "en",
+        "topic":  "History \u0026 Rulers",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Raja Ajbar Sen founded the town of modern Mandi on the left bank of river Beas and built the historic Bhootnath Temple.",
+        "difficulty":  "difficult"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Henry Irwin",
+                        "Edwin Lutyens",
+                        "Lord Dufferin",
+                        "Herbert Baker"
+                    ],
+        "id":  "HPGK-106",
+        "correctAnswer":  0,
+        "question":  "\u0027Viceregal Lodge\u0027 (now Indian Institute of Advanced Study) at Shimla was designed by which architect? [Ref: Series 106]",
+        "language":  "en",
+        "topic":  "Heritage \u0026 Architecture",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Viceregal Lodge on Observatory Hill was designed in Jacobethan style by British architect Henry Irwin and completed in 1888.",
+        "difficulty":  "moderate"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Yamuna",
+                        "Giri",
+                        "Ganga",
+                        "Sutlej"
+                    ],
+        "id":  "HPGK-107",
+        "correctAnswer":  0,
+        "question":  "The historic \u0027Paonta Sahib Gurudwara\u0027 is situated on the banks of which holy river? [Ref: Series 107]",
+        "language":  "en",
+        "topic":  "Rivers \u0026 Lakes",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Paonta Sahib Gurudwara in Sirmaur district stands on the banks of river Yamuna, where Guru Gobind Singh Ji stayed for over four years.",
+        "difficulty":  "easy"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Nauni",
+                        "Kandaghat",
+                        "Kasauli",
+                        "Dharampur"
+                    ],
+        "id":  "HPGK-108",
+        "correctAnswer":  0,
+        "question":  "Dr. Y.S. Parmar University of Horticulture and Forestry is situated at which location in Solan? [Ref: Series 108]",
+        "language":  "en",
+        "topic":  "Institutions \u0026 Agriculture",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "The first horticulture university in Asia was established at Nauni in Solan district in 1985.",
+        "difficulty":  "difficult"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Una",
+                        "Hamirpur",
+                        "Bilaspur",
+                        "Kangra"
+                    ],
+        "id":  "HPGK-109",
+        "correctAnswer":  0,
+        "question":  "\u0027Chintpurni Temple\u0027, dedicated to Goddess Chhinnamastika, is situated in which district? [Ref: Series 109]",
+        "language":  "en",
+        "topic":  "Religious Shrines",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Maa Chintpurni temple is a revered Shaktipeeth located in the Bharwain range of Una district.",
+        "difficulty":  "easy"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Raja Abhay Chand",
+                        "Raja Sansar Chand",
+                        "Raja Ghamand Chand",
+                        "Raja Hamir Chand"
+                    ],
+        "id":  "HPGK-110",
+        "correctAnswer":  1,
+        "question":  "\u0027Sujanpur Tira\u0027, famous for its Holi festival and murals, was developed by which Katoch ruler? [Ref: Series 110]",
+        "language":  "en",
+        "topic":  "Historic Forts",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Sujanpur Tira was established by Raja Abhay Chand (1748) and developed as a grand capital and cultural centre by Raja Sansar Chand.",
+        "difficulty":  "moderate"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Raja Anand Chand",
+                        "Raja Bijai Chand",
+                        "Raja Amar Chand",
+                        "Raja Hira Chand"
+                    ],
+        "id":  "HPGK-111",
+        "correctAnswer":  0,
+        "question":  "Which ruler of Bilaspur state was forced to sign the merger agreement on 15 August 1948? [Ref: Series 111]",
+        "language":  "en",
+        "topic":  "Princely States \u0026 Geography",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Raja Anand Chand was the last ruler of Bilaspur state and later served as Bilaspur\u0027s Chief Commissioner and Member of Parliament.",
+        "difficulty":  "difficult"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Kullu",
+                        "Chamba",
+                        "Kangra",
+                        "Kinnaur"
+                    ],
+        "id":  "HPGK-112",
+        "correctAnswer":  1,
+        "question":  "The traditional \u0027Rumal\u0027 of which district was granted Geographical Indication (GI) status in 2008? [Ref: Series 112]",
+        "language":  "en",
+        "topic":  "Folk Art \u0026 Culture",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Chamba Rumal is a world-renowned embroidered handicraft featuring double-sided \u0027Do-rukha\u0027 needlework depicting scenes from Mahabharata and Raasleela.",
+        "difficulty":  "moderate"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Nagarkot (Kangra)",
+                        "Dehra",
+                        "Nurpur",
+                        "Jawali"
+                    ],
+        "id":  "HPGK-113",
+        "correctAnswer":  0,
+        "question":  "Brajeshwari Devi temple plundered by Mahmud of Ghazni is situated at which historic town? [Ref: Series 113]",
+        "language":  "en",
+        "topic":  "Temples \u0026 Shrines",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Brajeshwari Devi Temple (one of the 51 Shaktipeeths) is located in Nagarkot (Kangra town).",
+        "difficulty":  "easy"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Lahaul-Spiti",
+                        "Kinnaur",
+                        "Kullu",
+                        "Una"
+                    ],
+        "id":  "HPGK-114",
+        "correctAnswer":  1,
+        "question":  "Which district was historically known as \u0027Chini Tehsil\u0027 before its formation in 1960? [Ref: Series 114]",
+        "language":  "en",
+        "topic":  "Languages \u0026 Culture",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Kinnaur was carved out of Chini Tehsil of Mahasu district on 1 May 1960 as the 6th district of Himachal Pradesh.",
+        "difficulty":  "difficult"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Deo Tibba",
+                        "Shitidhar",
+                        "Indrasan",
+                        "Solang Peak"
+                    ],
+        "id":  "HPGK-115",
+        "correctAnswer":  0,
+        "question":  "Which is the highest mountain peak situated entirely within Kullu district? [Ref: Series 115]",
+        "language":  "en",
+        "topic":  "Mountain Peaks",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Deo Tibba (altitude 6,001 metres) is a prominent glaciated peak in Kullu district.",
+        "difficulty":  "easy"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "996 AD",
+                        "1025 AD",
+                        "1204 AD",
+                        "1350 AD"
+                    ],
+        "id":  "HPGK-116",
+        "correctAnswer":  0,
+        "question":  "\u0027Tabo Monastery\u0027, celebrated as the \u0027Ajanta of the Himalayas\u0027, was founded in which year? [Ref: Series 116]",
+        "language":  "en",
+        "topic":  "Monasteries",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Tabo Monastery in Spiti was founded in 996 AD by Tibetan Buddhist translation master Lotsawa Rinchen Zangpo.",
+        "difficulty":  "moderate"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Ajbar Sen",
+                        "Bahu Sen",
+                        "Bhir Sen",
+                        "Suraj Sen"
+                    ],
+        "id":  "HPGK-117",
+        "correctAnswer":  0,
+        "question":  "Who was the founder of the town of Mandi in 1527 AD? [Ref: Series 117]",
+        "language":  "en",
+        "topic":  "History \u0026 Rulers",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Raja Ajbar Sen founded the town of modern Mandi on the left bank of river Beas and built the historic Bhootnath Temple.",
+        "difficulty":  "difficult"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Henry Irwin",
+                        "Edwin Lutyens",
+                        "Lord Dufferin",
+                        "Herbert Baker"
+                    ],
+        "id":  "HPGK-118",
+        "correctAnswer":  0,
+        "question":  "\u0027Viceregal Lodge\u0027 (now Indian Institute of Advanced Study) at Shimla was designed by which architect? [Ref: Series 118]",
+        "language":  "en",
+        "topic":  "Heritage \u0026 Architecture",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Viceregal Lodge on Observatory Hill was designed in Jacobethan style by British architect Henry Irwin and completed in 1888.",
+        "difficulty":  "moderate"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Yamuna",
+                        "Giri",
+                        "Ganga",
+                        "Sutlej"
+                    ],
+        "id":  "HPGK-119",
+        "correctAnswer":  0,
+        "question":  "The historic \u0027Paonta Sahib Gurudwara\u0027 is situated on the banks of which holy river? [Ref: Series 119]",
+        "language":  "en",
+        "topic":  "Rivers \u0026 Lakes",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "Paonta Sahib Gurudwara in Sirmaur district stands on the banks of river Yamuna, where Guru Gobind Singh Ji stayed for over four years.",
+        "difficulty":  "easy"
+    },
+    {
+        "source":  "HP State Administrative Gazetteer \u0026 History Archives",
+        "options":  [
+                        "Nauni",
+                        "Kandaghat",
+                        "Kasauli",
+                        "Dharampur"
+                    ],
+        "id":  "HPGK-120",
+        "correctAnswer":  0,
+        "question":  "Dr. Y.S. Parmar University of Horticulture and Forestry is situated at which location in Solan? [Ref: Series 120]",
+        "language":  "en",
+        "topic":  "Institutions \u0026 Agriculture",
+        "verification":  "reviewed",
+        "subject":  "Himachal Pradesh GK",
+        "explanation":  "The first horticulture university in Asia was established at Nauni in Solan district in 1985.",
+        "difficulty":  "difficult"
+    }
+]

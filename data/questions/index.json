@@ -1,0 +1,54 @@
+{
+  "totalQuestionsCount": 570,
+  "lastUpdated": "2026-11-13",
+  "files": [
+    {
+      "subject": "Official 2022 Solved Paper",
+      "path": "data/questions/hp-process-server-2022.json",
+      "count": 50,
+      "tag": "Official PYQ"
+    },
+    {
+      "subject": "Himachal Pradesh GK",
+      "path": "data/questions/hp-gk.json",
+      "count": 120,
+      "tag": "Subject Bank"
+    },
+    {
+      "subject": "General Knowledge",
+      "path": "data/questions/general-knowledge.json",
+      "count": 80,
+      "tag": "Subject Bank"
+    },
+    {
+      "subject": "Mathematics",
+      "path": "data/questions/mathematics.json",
+      "count": 60,
+      "tag": "Subject Bank"
+    },
+    {
+      "subject": "General Science",
+      "path": "data/questions/general-science.json",
+      "count": 60,
+      "tag": "Subject Bank"
+    },
+    {
+      "subject": "English",
+      "path": "data/questions/english.json",
+      "count": 60,
+      "tag": "Subject Bank"
+    },
+    {
+      "subject": "Hindi",
+      "path": "data/questions/hindi.json",
+      "count": 80,
+      "tag": "Subject Bank"
+    },
+    {
+      "subject": "Reasoning",
+      "path": "data/questions/reasoning.json",
+      "count": 60,
+      "tag": "Subject Bank"
+    }
+  ]
+}
